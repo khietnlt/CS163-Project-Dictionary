@@ -80,25 +80,33 @@ void Dictionary::chooseDic(int temp)
         }
         else
         {
-            string line;
+            string buf1;
 
-            while (getline(finput1, line))
+            while (std::getline(finput1, buf1))
             {
-                size_t spacePos = line.find_first_of(" \t");
+                size_t spacePos = buf1.find_first_of(" \t");
                 if (spacePos != string::npos)
                 {
-                    string keyword = line.substr(0, spacePos);
-                    string definition = line.substr(spacePos + 1);
-
-                    // Trim leading spaces and tabs from the definition
-                    size_t firstNonSpace = definition.find_first_not_of(" \t");
-                    if (firstNonSpace != string::npos)
+                    string keyword = buf1.substr(0, spacePos);
+                    if (spacePos + 1 < buf1.length())
                     {
-                        definition = definition.substr(firstNonSpace);
+                        string definition = buf1.substr(spacePos + 1);
+
+                        // Trim leading spaces and tabs from the definition
+                        size_t firstNonSpace = definition.find_first_not_of(" \t");
+                        if (firstNonSpace != string::npos)
+                        {
+                            definition = definition.substr(firstNonSpace);
+                        }
+
+                        addNewWord(keyword, definition);
+
+                       
                     }
                 }
-                finput1.close();
             }
+
+            finput1.close();
 
             break;
         }
@@ -109,638 +117,649 @@ void Dictionary::chooseDic(int temp)
         break;
     }
     }
-    }
+}
 
-    void menu()
+void menu()
+{
+    cout << "-----WELCOME TO OUR DICTIONARY-----" << endl;
+    cout << "1: Search for a word" << endl;
+    cout << "2: Add word to favorite list" << endl;
+    cout << "3: View favorite list" << endl;
+    cout << "4: View history of search word" << endl;
+    cout << "5: Add new word and definition" << endl;
+    cout << "6: Edit definition" << endl;
+    cout << "7: Remove a word" << endl;
+    cout << "8: Reset dictionary" << endl;
+    cout << "9: View random word and definition" << endl;
+    cout << "10: question: Guess definition" << endl;
+    cout << "11: question: Guess word" << endl;
+}
+
+Trie *Trie::getNewTrie(string word, string meaning)
+{
+    Trie *node = new Trie;
+    node->keyWord = word;
+    node->definition = meaning;
+    node->isEndOfName = false;
+    return node;
+}
+
+void Dictionary::addNewWord(const string &str, string meaning)
+{
+    if (root == nullptr)
+        root = new Trie;
+
+    Trie *temp = root;
+
+    for (char c : str)
     {
-        cout << "-----WELCOME TO OUR DICTIONARY-----" << endl;
-        cout << "1: Search for a word" << endl;
-        cout << "2: Add word to favorite list" << endl;
-        cout << "3: View favorite list" << endl;
-        cout << "4: View history of search word" << endl;
-        cout << "5: Add new word and definition" << endl;
-        cout << "6: Edit definition" << endl;
-        cout << "7: Remove a word" << endl;
-        cout << "8: Reset dictionary" << endl;
-        cout << "9: View random word and definition" << endl;
-        cout << "10: question: Guess definition" << endl;
-        cout << "11: question: Guess word" << endl;
+        if (temp->map.find(c) == temp->map.end())
+            temp->map[c] = temp->getNewTrie("", "");
+
+        temp = temp->map[c];
     }
-
-    Trie *Trie::getNewTrie(string word, string meaning)
+    if (temp->isEndOfName)
     {
-        Trie *node = new Trie;
-        node->keyWord = word;
-        node->definition = meaning;
-        node->isEndOfName = false;
-        return node;
-    }
-
-    void Dictionary::addNewWord(const string &str, string meaning)
-    {
-        if (root == nullptr)
-            root = new Trie;
-
-        Trie *temp = root;
-
-        for (char c : str)
-        {
-            if (temp->map.find(c) == temp->map.end())
-                temp->map[c] = temp->getNewTrie("", "");
-
-            temp = temp->map[c];
-        }
-        if (temp->isEndOfName)
-        {
-            // Word already exists, update the meaning
-            temp->definition = meaning;
-            return;
-        }
-
-        temp->isEndOfName = true;
-        temp->keyWord = str;
+        // Word already exists, update the meaning
         temp->definition = meaning;
+        return;
     }
 
-    string Dictionary::searchKeyword(const string &st)
-    {
+    temp->isEndOfName = true;
+    temp->keyWord = str;
+    temp->definition = meaning;
+}
 
-        if (root == NULL)
-            return "Not found";
+string Dictionary::searchKeyword(const string &st)
+{
 
-        Trie *temp = root;
-
-        for (int i = 0; i < st.length(); i++)
-        {
-            temp = temp->map[st[i]];
-            if (temp == NULL)
-                return "Not found";
-        }
-
-        if (temp->isEndOfName)
-            return temp->definition;
+    if (root == NULL)
         return "Not found";
+
+    Trie *temp = root;
+
+    for (int i = 0; i < st.length(); i++)
+    {
+        temp = temp->map[st[i]];
+        if (temp == NULL)
+            return "Not found";
     }
 
-    vector<string> Dictionary::searchWordsByDefinition(const string &definition)
-    {
-        vector<string> words;
-        searchWordsByDefinition(root, "", definition, words);
+    if (temp->isEndOfName)
+        return temp->definition;
+    return "Not found";
+}
 
-        return words;
+vector<string> Dictionary::searchWordsByDefinition(const string &definition)
+{
+    vector<string> words;
+    searchWordsByDefinition(root, "", definition, words);
+
+    return words;
+}
+
+void Dictionary::searchWordsByDefinition(Trie *node, string currentWord, const string &targetDefinition, vector<string> &words)
+{
+    if (node == NULL)
+        return;
+
+    if (node->isEndOfName && toLowercase(node->definition) == toLowercase(targetDefinition))
+    {
+        words.push_back(currentWord);
     }
 
-    void Dictionary::searchWordsByDefinition(Trie * node, string currentWord, const string &targetDefinition, vector<string> &words)
-    {
-        if (node == NULL)
-            return;
-
-        if (node->isEndOfName && toLowercase(node->definition) == toLowercase(targetDefinition))
-        {
-            words.push_back(currentWord);
-        }
-
+    if (targetDefinition.empty()) {
         for (auto &it : node->map)
         {
             char c = it.first;
             Trie *nextNode = it.second;
             searchWordsByDefinition(nextNode, currentWord + c, targetDefinition, words);
         }
+    } else {
+        char firstChar = targetDefinition[0];
+        string remainingDefinition = targetDefinition.substr(1);
+
+        auto nextNodeIt = node->map.find(firstChar);
+        if (nextNodeIt != node->map.end()) {
+            Trie *nextNode = nextNodeIt->second;
+            searchWordsByDefinition(nextNode, currentWord + firstChar, remainingDefinition, words);
+        }
+    }
+}
+
+string Dictionary::toLowercase(const string &str)
+{
+    string result = str;
+    std::transform(result.begin(), result.end(), result.begin(), ::tolower);
+    return result;
+}
+
+string Dictionary::search(const string &query)
+{
+    string normalizedQuery = toLowercase(query);
+
+    if (root == nullptr)
+        return "Not found";
+
+    Trie *temp = root;
+
+    for (int i = 0; i < normalizedQuery.length(); i++)
+    {
+        temp = temp->map[normalizedQuery[i]];
+        if (temp == nullptr)
+            break;
     }
 
-    string Dictionary::toLowercase(const string &str)
+    if (temp != nullptr && temp->isEndOfName)
+        return temp->definition;
+    vector<string> wordsWithDefinition = searchWordsByDefinition(normalizedQuery);
+    if (!wordsWithDefinition.empty())
     {
-        string result = str;
-        std::transform(result.begin(), result.end(), result.begin(), ::tolower);
+        string result;
+        for (const string &word : wordsWithDefinition)
+        {
+            result += word + ", ";
+        }
+        result.erase(result.length() - 2); // Remove the trailing comma and space
         return result;
     }
 
-    string Dictionary::search(const string &query)
+    return "Not found";
+}
+
+void Dictionary::editDefinition(const string &st, string newMeaning)
+{
+
+    if (root == NULL)
+        return;
+
+    Trie *temp = root;
+
+    for (int i = 0; i < st.length(); i++)
     {
-        string normalizedQuery = toLowercase(query);
-
-        if (root == nullptr)
-            return "Not found";
-
-        Trie *temp = root;
-
-        for (int i = 0; i < normalizedQuery.length(); i++)
-        {
-            temp = temp->map[normalizedQuery[i]];
-            if (temp == nullptr)
-                break;
-        }
-
-        if (temp != nullptr && temp->isEndOfName)
-            return temp->definition;
-        vector<string> wordsWithDefinition = searchWordsByDefinition(normalizedQuery);
-        if (!wordsWithDefinition.empty())
-        {
-            string result;
-            for (const string &word : wordsWithDefinition)
-            {
-                result += word + ", ";
-            }
-            result.erase(result.length() - 2); // Remove the trailing comma and space
-            return result;
-        }
-
-        return "Not found";
+        temp = temp->map[st[i]];
+        if (temp == NULL)
+            return;
     }
 
-    void Dictionary::editDefinition(const string &st, string newMeaning)
+    if (temp->isEndOfName)
+        temp->definition = newMeaning;
+    return;
+}
+
+void Dictionary::addToFavoriteList(const string &st)
+{
+    ofstream myfile("FavoriteList.txt", ios::app); // Append mode
+    if (myfile.is_open())
     {
-
-        if (root == NULL)
-            return;
-
-        Trie *temp = root;
-
-        for (int i = 0; i < st.length(); i++)
+        string meaning = searchKeyword(st);
+        if (meaning != "Not found")
         {
-            temp = temp->map[st[i]];
-            if (temp == NULL)
-                return;
+            myfile << st << ": " << meaning << '\n';
+            cout << "Successfully added to your favorite list" << endl;
         }
+        else
+        {
+            cout << "The word \"" << st << "\" does not exist in the dictionary." << endl;
+        }
+        myfile.close();
+    }
+    else
+    {
+        cout << "Unable to open file";
+    }
+}
 
-        if (temp->isEndOfName)
-            temp->definition = newMeaning;
+void Dictionary::addToHistory(const string &st)
+{
+    ofstream foutput;
+    ifstream finput;
+    finput.open("HistoryList.txt");
+    foutput.open("HistoryList.txt", ios::app);
+
+    if (finput.is_open())
+        foutput << st << "\n";
+
+    finput.close();
+    foutput.close();
+}
+
+void Dictionary::viewFavoriteList()
+{
+    string line;
+    ifstream myfile("FavoriteList.txt");
+    if (myfile.is_open())
+    {
+        int count = 0;
+        while (getline(myfile, line))
+        {
+            size_t colonPos = line.find(": ");
+            if (colonPos != string::npos)
+            {
+                string word = line.substr(0, colonPos);
+                string definition = line.substr(colonPos + 2);
+                cout << count + 1 << ". Word: " << word << endl;
+                cout << "   Definition: " << definition << endl;
+                count++;
+            }
+        }
+        myfile.close();
+
+        if (count == 0)
+        {
+            cout << "Your favorite list is empty." << endl;
+        }
+    }
+    else
+    {
+        cout << "Unable to open file";
+    }
+}
+void Dictionary::removeFromFavoriteList(const string &st)
+{
+    ifstream favFile("FavoriteList.txt");
+    vector<string> lines;
+    string line;
+
+    if (!favFile.is_open())
+    {
+        cout << "Unable to open the favorite list file." << endl;
         return;
     }
 
-    void Dictionary::addToFavoriteList(const string &st)
+    while (getline(favFile, line))
     {
-        ofstream myfile("FavoriteList.txt", ios::app); // Append mode
-        if (myfile.is_open())
+        if (line != st)
         {
-            string meaning = searchKeyword(st);
-            if (meaning != "Not found")
-            {
-                myfile << st << ": " << meaning << '\n';
-                cout << "Successfully added to your favorite list" << endl;
-            }
-            else
-            {
-                cout << "The word \"" << st << "\" does not exist in the dictionary." << endl;
-            }
-            myfile.close();
-        }
-        else
-        {
-            cout << "Unable to open file";
+            lines.push_back(line);
         }
     }
 
-    void Dictionary::addToHistory(const string &st)
+    favFile.close();
+
+    ofstream outFile("FavoriteList.txt");
+    for (const string &l : lines)
     {
-        ofstream foutput;
-        ifstream finput;
-        finput.open("HistoryList.txt");
-        foutput.open("HistoryList.txt", ios::app);
-
-        if (finput.is_open())
-            foutput << st << "\n";
-
-        finput.close();
-        foutput.close();
+        outFile << l << '\n';
     }
 
-    void Dictionary::viewFavoriteList()
+    outFile.close();
+
+    cout << "Word removed from your favorite list." << endl;
+}
+void Dictionary::viewHistoryOfSearchWord()
+{
+    string line;
+    ifstream myfile("HistoryList.txt");
+    if (myfile.is_open())
     {
-        string line;
-        ifstream myfile("FavoriteList.txt");
-        if (myfile.is_open())
+        while (getline(myfile, line))
         {
-            int count = 0;
-            while (getline(myfile, line))
-            {
-                size_t colonPos = line.find(": ");
-                if (colonPos != string::npos)
-                {
-                    string word = line.substr(0, colonPos);
-                    string definition = line.substr(colonPos + 2);
-                    cout << count + 1 << ". Word: " << word << endl;
-                    cout << "   Definition: " << definition << endl;
-                    count++;
-                }
-            }
-            myfile.close();
-
-            if (count == 0)
-            {
-                cout << "Your favorite list is empty." << endl;
-            }
+            cout << line << '\n';
         }
-        else
-        {
-            cout << "Unable to open file";
-        }
-    }
-    void Dictionary::removeFromFavoriteList(const string &st)
-    {
-        ifstream favFile("FavoriteList.txt");
-        vector<string> lines;
-        string line;
-
-        if (!favFile.is_open())
-        {
-            cout << "Unable to open the favorite list file." << endl;
-            return;
-        }
-
-        while (getline(favFile, line))
-        {
-            if (line != st)
-            {
-                lines.push_back(line);
-            }
-        }
-
-        favFile.close();
-
-        ofstream outFile("FavoriteList.txt");
-        for (const string &l : lines)
-        {
-            outFile << l << '\n';
-        }
-
-        outFile.close();
-
-        cout << "Word removed from your favorite list." << endl;
-    }
-    void Dictionary::viewHistoryOfSearchWord()
-    {
-        string line;
-        ifstream myfile("HistoryList.txt");
-        if (myfile.is_open())
-        {
-            while (getline(myfile, line))
-            {
-                cout << line << '\n';
-            }
-            myfile.close();
-        }
-
-        else
-            cout << "Unable to open file";
+        myfile.close();
     }
 
-    void Dictionary::removeWord(const string &word)
-    {
-        Trie *current = root;
-        for (char ch : word)
-        {
-            if (current->map.find(ch) == current->map.end())
-            {
-                cout << "The word \"" << word << "\" does not exist in the dictionary." << endl;
-                return;
-            }
-            current = current->map[ch];
-        }
+    else
+        cout << "Unable to open file";
+}
 
-        if (!current->isEndOfName)
+void Dictionary::removeWord(const string &word)
+{
+    Trie *current = root;
+    for (char ch : word)
+    {
+        if (current->map.find(ch) == current->map.end())
         {
             cout << "The word \"" << word << "\" does not exist in the dictionary." << endl;
             return;
         }
-
-        // If word found, mark the last node as not end of word
-        current->isEndOfName = false;
-        cout << "Successfully removed the word \"" << word << "\" from the dictionary." << endl;
-    }
-    void Dictionary::resetDictionary()
-    {
-        delete root;
-        root = nullptr;
+        current = current->map[ch];
     }
 
-    void Dictionary::viewRandomWord()
+    if (!current->isEndOfName)
     {
-        Trie *current = root;
-        if (current->map.empty())
-        {
-            cout << "Dictionary is empty. No word to view." << endl;
-            return;
-        }
+        cout << "The word \"" << word << "\" does not exist in the dictionary." << endl;
+        return;
+    }
 
-        // Seed the random number generator
-        srand(time(NULL));
+    // If word found, mark the last node as not end of word
+    current->isEndOfName = false;
+    cout << "Successfully removed the word \"" << word << "\" from the dictionary." << endl;
+}
+void Dictionary::resetDictionary()
+{
+    delete root;
+    root = nullptr;
+}
 
-        vector<string> words;
-        getAllWords(current, "", words);
+void Dictionary::viewRandomWord()
+{
+    Trie *current = root;
+    if (current->map.empty())
+    {
+        cout << "Dictionary is empty. No word to view." << endl;
+        return;
+    }
 
-        // Pick a random word from the list
-        if (words.empty())
-        {
-            cout << "Dictionary is empty. No word to view." << endl;
-            return;
-        }
+    // Seed the random number generator
+    srand(time(NULL));
 
-        std::random_device rd;
-        std::mt19937 gen(rd());
-        std::uniform_int_distribution<int> dis(0, words.size() - 1);
+    vector<string> words;
+    getAllWords(current, "", words);
 
-        int randomIndex = dis(gen);
-        string randomWord = words[randomIndex];
+    // Pick a random word from the list
+    if (words.empty())
+    {
+        cout << "Dictionary is empty. No word to view." << endl;
+        return;
+    }
 
-        // Display the randomly picked word and its definition
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::uniform_int_distribution<int> dis(0, words.size() - 1);
+
+    int randomIndex = dis(gen);
+    string randomWord = words[randomIndex];
+
+    // Display the randomly picked word and its definition
+    current = root;
+    for (int i = 0; i < randomWord.length(); i++)
+    {
+        current = current->map[randomWord[i]];
+    }
+
+    cout << "Random Word: " << randomWord << endl;
+    cout << "Definition: " << current->definition << endl;
+}
+
+void Dictionary::getAllWords(Trie *node, string currentWord, vector<string> &words)
+{
+    if (node->isEndOfName)
+    {
+        words.push_back(currentWord);
+    }
+
+    for (auto &it : node->map)
+    {
+        char c = it.first;
+        Trie *nextNode = it.second;
+        getAllWords(nextNode, currentWord + c, words);
+    }
+}
+void Dictionary::getAllDefinitions(Trie *node, string prefix, vector<string> &allDefinitions)
+{
+    if (node->isEndOfName)
+    {
+        allDefinitions.push_back(node->definition);
+    }
+
+    for (auto &it : node->map)
+    {
+        Trie *child = it.second;
+        getAllDefinitions(child, prefix + it.first, allDefinitions);
+    }
+}
+
+void Dictionary::viewWords(int numWords)
+{
+    Trie *current = root;
+    if (current->map.empty())
+    {
+        cout << "Dictionary is empty. No words to view." << endl;
+        return;
+    }
+
+    vector<string> words;
+    getAllWords(current, "", words);
+
+    if (words.empty())
+    {
+        cout << "Dictionary is empty. No words to view." << endl;
+        return;
+    }
+
+    cout << "Viewing " << min(numWords, static_cast<int>(words.size())) << " words from the dictionary:" << endl;
+
+    for (int i = 0; i < min(numWords, static_cast<int>(words.size())); i++)
+    {
         current = root;
-        for (int i = 0; i < randomWord.length(); i++)
-        {
-            current = current->map[randomWord[i]];
-        }
+        string currentWord = words[i];
 
-        cout << "Random Word: " << randomWord << endl;
-        cout << "Definition: " << current->definition << endl;
-    }
-
-    void Dictionary::getAllWords(Trie * node, string currentWord, vector<string> & words)
-    {
-        if (node->isEndOfName)
-        {
-            words.push_back(currentWord);
-        }
-
-        for (auto &it : node->map)
-        {
-            char c = it.first;
-            Trie *nextNode = it.second;
-            getAllWords(nextNode, currentWord + c, words);
-        }
-    }
-    void Dictionary::getAllDefinitions(Trie * node, string prefix, vector<string> & allDefinitions)
-    {
-        if (node->isEndOfName)
-        {
-            allDefinitions.push_back(node->definition);
-        }
-
-        for (auto &it : node->map)
-        {
-            Trie *child = it.second;
-            getAllDefinitions(child, prefix + it.first, allDefinitions);
-        }
-    }
-
-    void Dictionary::viewWords(int numWords)
-    {
-        Trie *current = root;
-        if (current->map.empty())
-        {
-            cout << "Dictionary is empty. No words to view." << endl;
-            return;
-        }
-
-        vector<string> words;
-        getAllWords(current, "", words);
-
-        if (words.empty())
-        {
-            cout << "Dictionary is empty. No words to view." << endl;
-            return;
-        }
-
-        cout << "Viewing " << min(numWords, static_cast<int>(words.size())) << " words from the dictionary:" << endl;
-
-        for (int i = 0; i < min(numWords, static_cast<int>(words.size())); i++)
-        {
-            current = root;
-            string currentWord = words[i];
-
-            for (char c : currentWord)
-            {
-                current = current->map[c];
-            }
-
-            cout << i + 1 << ". Word: " << currentWord << endl;
-            cout << "   Definition: " << current->definition << endl;
-        }
-    }
-
-    WordGuessQuestion Dictionary::getRandomWordGuessQuestion()
-    {
-        WordGuessQuestion question;
-
-        Trie *current = root;
-        vector<string> words;
-        getAllWords(current, "", words);
-
-        if (words.empty())
-        {
-            question.word = "No words in the dictionary";
-            return question;
-        }
-
-        // Seed the random number generator
-        std::random_device rd;
-        std::mt19937 gen(rd());
-        std::uniform_int_distribution<int> dis(0, words.size() - 1);
-
-        int randomIndex = dis(gen);
-        string randomWord = words[randomIndex];
-
-        current = root;
-        for (char c : randomWord)
+        for (char c : currentWord)
         {
             current = current->map[c];
         }
 
-        question.word = randomWord;
-        question.correctDefinition = current->definition;
+        cout << i + 1 << ". Word: " << currentWord << endl;
+        cout << "   Definition: " << current->definition << endl;
+    }
+}
 
-        vector<string> allDefinitions;
-        getAllDefinitions(root, "", allDefinitions);
+WordGuessQuestion Dictionary::getRandomWordGuessQuestion()
+{
+    WordGuessQuestion question;
 
-        // Remove all occurrences of the correct definition from all definitions
-        vector<string> filteredDefinitions;
-        for (const string &def : allDefinitions)
-        {
-            if (def != question.correctDefinition)
-            {
-                filteredDefinitions.push_back(def);
-            }
-        }
+    Trie *current = root;
+    vector<string> words;
+    getAllWords(current, "", words);
 
-        allDefinitions = filteredDefinitions;
-
-        // Shuffle all definitions
-        std::shuffle(allDefinitions.begin(), allDefinitions.end(), gen);
-
-        int numOptions = 4;
-        question.options.push_back(question.correctDefinition); // Add the correct definition as an option
-
-        // Add distinct incorrect definitions as options
-        for (const string &incorrectDefinition : allDefinitions)
-        {
-            question.options.push_back(incorrectDefinition);
-            if (question.options.size() >= numOptions)
-            {
-                break;
-            }
-        }
-
-        // Shuffle the options
-        std::shuffle(question.options.begin(), question.options.end(), gen);
-
+    if (words.empty())
+    {
+        question.word = "No words in the dictionary";
         return question;
     }
-    /*
-    WordGuessQuestion Dictionary::getRandomDefGuessQuestion() {
-        WordGuessQuestion question;
 
-        Trie* current = root;
-        vector<string> words;
-        getAllWords(current, "", words);
+    // Seed the random number generator
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::uniform_int_distribution<int> dis(0, words.size() - 1);
 
-        if (words.empty()) {
-            question.word = "No words in the dictionary";
-            return question;
+    int randomIndex = dis(gen);
+    string randomWord = words[randomIndex];
+
+    current = root;
+    for (char c : randomWord)
+    {
+        current = current->map[c];
+    }
+
+    question.word = randomWord;
+    question.correctDefinition = current->definition;
+
+    vector<string> allDefinitions;
+    getAllDefinitions(root, "", allDefinitions);
+
+    // Remove all occurrences of the correct definition from all definitions
+    vector<string> filteredDefinitions;
+    for (const string &def : allDefinitions)
+    {
+        if (def != question.correctDefinition)
+        {
+            filteredDefinitions.push_back(def);
         }
+    }
 
-        // Seed the random number generator
-        std::random_device rd;
-        std::mt19937 gen(rd());
-        std::uniform_int_distribution<int> dis(0, words.size() - 1);
+    allDefinitions = filteredDefinitions;
 
-        int randomIndex = dis(gen);
-        string randomWord = words[randomIndex];
+    // Shuffle all definitions
+    std::shuffle(allDefinitions.begin(), allDefinitions.end(), gen);
 
+    int numOptions = 4;
+    question.options.push_back(question.correctDefinition); // Add the correct definition as an option
+
+    // Add distinct incorrect definitions as options
+    for (const string &incorrectDefinition : allDefinitions)
+    {
+        question.options.push_back(incorrectDefinition);
+        if (question.options.size() >= numOptions)
+        {
+            break;
+        }
+    }
+
+    // Shuffle the options
+    std::shuffle(question.options.begin(), question.options.end(), gen);
+
+    return question;
+}
+/*
+WordGuessQuestion Dictionary::getRandomDefGuessQuestion() {
+    WordGuessQuestion question;
+
+    Trie* current = root;
+    vector<string> words;
+    getAllWords(current, "", words);
+
+    if (words.empty()) {
+        question.word = "No words in the dictionary";
+        return question;
+    }
+
+    // Seed the random number generator
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::uniform_int_distribution<int> dis(0, words.size() - 1);
+
+    int randomIndex = dis(gen);
+    string randomWord = words[randomIndex];
+
+    current = root;
+    for (char c : randomWord) {
+        current = current->map[c];
+    }
+
+    question.correctDefinition = randomWord;
+    question.word = current->definition;
+
+    vector<string> allDefinitions;
+    vector<string> incorrectWords;
+    getAllDefinitions(root, "", allDefinitions);
+    Trie* current_test = root;
+    vector<string> def;
+    getAllWordsWithDifferentDefinition(current_test, "", question.word, def);
+    std::shuffle(def.begin(), def.end(), gen);
+
+    incorrectWords= def.size() > 3 ? vector<string>(def.begin(), def.begin() + 3) : def;
+    if (incorrectWords.size() < 3) {
+        cout<< "Not enough words with distinct definitions";
+
+    }
+    question.options.push_back(question.correctDefinition); // Add the correct answer as an option
+
+    // Add distinct incorrect answers as options
+    for (const string& incorrectWord : incorrectWords) {
+        question.options.push_back(incorrectWord);
+        if (question.options.size() >= 4) {
+            break;
+        }
+    }
+
+    // Shuffle the options
+    std::shuffle(question.options.begin(), question.options.end(), gen);
+
+    return question;
+}
+*/
+WordGuessQuestion Dictionary::getRandomDefGuessQuestion()
+{
+    WordGuessQuestion question;
+
+    Trie *current = root;
+    vector<string> words;
+    getAllWords(current, "", words);
+
+    if (words.empty())
+    {
+        question.word = "No words in the dictionary";
+        return question;
+    }
+
+    // Seed the random number generator
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::uniform_int_distribution<int> dis(0, words.size() - 1);
+
+    int randomIndex = dis(gen);
+    string randomWord = words[randomIndex];
+
+    current = root;
+    for (char c : randomWord)
+    {
+        current = current->map[c];
+    }
+
+    question.correctDefinition = randomWord;
+    question.word = current->definition;
+
+    vector<string> options;
+
+    for (const string &word : words)
+    {
         current = root;
-        for (char c : randomWord) {
+        for (char c : word)
+        {
             current = current->map[c];
         }
-
-        question.correctDefinition = randomWord;
-        question.word = current->definition;
-
-        vector<string> allDefinitions;
-        vector<string> incorrectWords;
-        getAllDefinitions(root, "", allDefinitions);
-        Trie* current_test = root;
-        vector<string> def;
-        getAllWordsWithDifferentDefinition(current_test, "", question.word, def);
-        std::shuffle(def.begin(), def.end(), gen);
-
-        incorrectWords= def.size() > 3 ? vector<string>(def.begin(), def.begin() + 3) : def;
-        if (incorrectWords.size() < 3) {
-            cout<< "Not enough words with distinct definitions";
-
+        if (current->definition != question.word)
+        {
+            options.push_back(word);
         }
-        question.options.push_back(question.correctDefinition); // Add the correct answer as an option
-
-        // Add distinct incorrect answers as options
-        for (const string& incorrectWord : incorrectWords) {
-            question.options.push_back(incorrectWord);
-            if (question.options.size() >= 4) {
-                break;
-            }
-        }
-
-        // Shuffle the options
-        std::shuffle(question.options.begin(), question.options.end(), gen);
-
-        return question;
     }
-    */
-    WordGuessQuestion Dictionary::getRandomDefGuessQuestion()
+
+    if (options.size() < 3)
     {
-        WordGuessQuestion question;
-
-        Trie *current = root;
-        vector<string> words;
-        getAllWords(current, "", words);
-
-        if (words.empty())
-        {
-            question.word = "No words in the dictionary";
-            return question;
-        }
-
-        // Seed the random number generator
-        std::random_device rd;
-        std::mt19937 gen(rd());
-        std::uniform_int_distribution<int> dis(0, words.size() - 1);
-
-        int randomIndex = dis(gen);
-        string randomWord = words[randomIndex];
-
-        current = root;
-        for (char c : randomWord)
-        {
-            current = current->map[c];
-        }
-
-        question.correctDefinition = randomWord;
-        question.word = current->definition;
-
-        vector<string> options;
-
-        for (const string &word : words)
-        {
-            current = root;
-            for (char c : word)
-            {
-                current = current->map[c];
-            }
-            if (current->definition != question.word)
-            {
-                options.push_back(word);
-            }
-        }
-
-        if (options.size() < 3)
-        {
-            question.options.push_back(question.correctDefinition); // Add the correct answer as the only option
-            question.word = "Not enough words with distinct definitions";
-            return question;
-        }
-
-        // Randomly select 3 options from the list of options
-        std::shuffle(options.begin(), options.end(), gen);
-        question.options.push_back(question.correctDefinition); // Add the correct answer as an option
-        for (size_t i = 0; i < 3; ++i)
-        {
-            question.options.push_back(options[i]);
-        }
-
-        // Shuffle the options
-        std::shuffle(question.options.begin(), question.options.end(), gen);
-
+        question.options.push_back(question.correctDefinition); // Add the correct answer as the only option
+        question.word = "Not enough words with distinct definitions";
         return question;
     }
 
-    vector<string> Dictionary::autocomplete(const string &prefix)
+    // Randomly select 3 options from the list of options
+    std::shuffle(options.begin(), options.end(), gen);
+    question.options.push_back(question.correctDefinition); // Add the correct answer as an option
+    for (size_t i = 0; i < 3; ++i)
     {
-        vector<string> suggestions;
-        Trie *node = root;
-
-        // Traverse to the node representing the last character of the prefix
-        for (char c : prefix)
-        {
-            if (!node->map.count(c))
-            {
-                return suggestions; // Prefix not found in dictionary
-            }
-            node = node->map[c];
-        }
-
-        // Traverse the subtree under the prefix node to find all possible suggestions
-        autocomplete(node, prefix, suggestions);
-
-        return suggestions;
+        question.options.push_back(options[i]);
     }
 
-    void Dictionary::autocomplete(Trie * node, string currentWord, vector<string> & suggestions)
-    {
-        if (node->isEndOfName)
-        {
-            suggestions.push_back(currentWord);
-        }
+    // Shuffle the options
+    std::shuffle(question.options.begin(), question.options.end(), gen);
 
-        for (auto &it : node->map)
+    return question;
+}
+
+vector<string> Dictionary::autocomplete(const string &prefix)
+{
+    vector<string> suggestions;
+    Trie *node = root;
+
+    // Traverse to the node representing the last character of the prefix
+    for (char c : prefix)
+    {
+        if (!node->map.count(c))
         {
-            char c = it.first;
-            Trie *nextNode = it.second;
-            autocomplete(nextNode, currentWord + c, suggestions);
+            return suggestions; // Prefix not found in dictionary
         }
+        node = node->map[c];
     }
+
+    // Traverse the subtree under the prefix node to find all possible suggestions
+    autocomplete(node, prefix, suggestions);
+
+    return suggestions;
+}
+
+void Dictionary::autocomplete(Trie *node, string currentWord, vector<string> &suggestions)
+{
+    if (node->isEndOfName)
+    {
+        suggestions.push_back(currentWord);
+    }
+
+    for (auto &it : node->map)
+    {
+        char c = it.first;
+        Trie *nextNode = it.second;
+        autocomplete(nextNode, currentWord + c, suggestions);
+    }
+}
