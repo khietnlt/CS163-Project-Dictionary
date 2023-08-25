@@ -208,22 +208,11 @@ void Dictionary::searchWordsByDefinition(Trie *node, string currentWord, const s
         words.push_back(currentWord);
     }
 
-    if (targetDefinition.empty()) {
-        for (auto &it : node->map)
-        {
-            char c = it.first;
-            Trie *nextNode = it.second;
-            searchWordsByDefinition(nextNode, currentWord + c, targetDefinition, words);
-        }
-    } else {
-        char firstChar = targetDefinition[0];
-        string remainingDefinition = targetDefinition.substr(1);
-
-        auto nextNodeIt = node->map.find(firstChar);
-        if (nextNodeIt != node->map.end()) {
-            Trie *nextNode = nextNodeIt->second;
-            searchWordsByDefinition(nextNode, currentWord + firstChar, remainingDefinition, words);
-        }
+    for (auto &it : node->map)
+    {
+        char c = it.first;
+        Trie *nextNode = it.second;
+        searchWordsByDefinition(nextNode, currentWord + c, targetDefinition, words);
     }
 }
 

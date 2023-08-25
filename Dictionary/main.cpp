@@ -31,7 +31,7 @@ int main()
             do {
                 
                 cout << "Enter a word to search: ";
-                cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+                cin.ignore();
                 getline(cin, inputWord);
                 
     
@@ -86,8 +86,7 @@ int main()
                 cout << "Would you like to continue searching? (y/n): ";
                 cin >> command;
                 
-                cin.clear(); // Clear the input buffer
-                cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); 
+            
                 
             } while (command == "y" || command == "Y");
             break;
