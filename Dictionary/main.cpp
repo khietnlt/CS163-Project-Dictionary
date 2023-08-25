@@ -30,13 +30,15 @@ int main()
         case 1:
             do {
                 
+                //cin.ignore();
                 cout << "Enter a word to search: ";
-                cin.ignore();
+                cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
                 getline(cin, inputWord);
+                
                 
     
                 inputWord = test1.toLowercase(inputWord);
-                vector<string> suggestions = test1.autocomplete(inputWord);
+                
                 test1.addToHistory(inputWord);
                 
                 auto start = std::chrono::high_resolution_clock::now();
@@ -46,7 +48,7 @@ int main()
                 std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
 
 
-                 if (test1.search(inputWord) != "Not found") {
+                 if (test1.search(inputWord) != "Not found definition") {
                     cout << "Do you want to add this word to your favorite list? (y/n): ";
                     cin >> command;
                     if (command == "y" || command == "Y") {
@@ -60,6 +62,7 @@ int main()
                         std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
                     }
                 } else {
+                    vector<string> suggestions = test1.autocomplete(inputWord);
                     if (!suggestions.empty()) {
                     cout << "Suggestions:" << endl;
                     for (const string& suggestion : suggestions) {
@@ -83,8 +86,10 @@ int main()
 
                     }
                 }
-                cout << "Would you like to continue searching? (y/n): ";
-                cin >> command;
+                //cin.ignore();
+                cout << "Would you like to continue searching? (y/n): ";   
+                cin>>command;
+                
                 
             
                 

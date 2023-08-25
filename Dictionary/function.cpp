@@ -228,7 +228,7 @@ string Dictionary::search(const string &query)
     string normalizedQuery = toLowercase(query);
 
     if (root == nullptr)
-        return "Not found";
+        return "Not found definition";
 
     Trie *temp = root;
 
@@ -252,8 +252,11 @@ string Dictionary::search(const string &query)
         result.erase(result.length() - 2); // Remove the trailing comma and space
         return result;
     }
+    else {
+        return "Not found keyword";
+    }
 
-    return "Not found";
+    return "Not found definition";
 }
 
 void Dictionary::editDefinition(const string &st, string newMeaning)
