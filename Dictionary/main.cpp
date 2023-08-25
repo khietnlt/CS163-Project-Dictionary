@@ -29,36 +29,56 @@ int main()
             do {
                 
                 cout << "Enter a word to search: ";
-                cin>>inputWord;
+                cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+                getline(cin, inputWord);
+                
+    
+                inputWord = test1.toLowercase(inputWord);
                 vector<string> suggestions = test1.autocomplete(inputWord);
-                //inputWord = test1.toLowercase(inputWord);
                 test1.addToHistory(inputWord);
                 
-
+                auto start = std::chrono::high_resolution_clock::now();
                 cout << "Meaning: " << test1.search(inputWord) << endl;
+                auto end = std::chrono::high_resolution_clock::now();
+                std::chrono::duration<double> duration = end - start;
+                std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
+
 
                  if (test1.search(inputWord) != "Not found") {
                     cout << "Do you want to add this word to your favorite list? (y/n): ";
                     cin >> command;
                     if (command == "y" || command == "Y") {
+
+                        auto start = std::chrono::high_resolution_clock::now();
+
                         test1.addToFavoriteList(inputWord);
                         //cout << "Successfully added to your favorite list" << endl;
+                        auto end = std::chrono::high_resolution_clock::now();
+                        std::chrono::duration<double> duration = end - start;
+                        std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
                     }
                 } else {
-                    
+                    if (!suggestions.empty()) {
                     cout << "Suggestions:" << endl;
                     for (const string& suggestion : suggestions) {
                     cout << suggestion << endl;
                         }
+                    }
                     //cout << "The word \"" << inputWord << "\" does not exist in the dictionary." << endl;
                     cout << "Do you want to add this word to the dictionary? (y/n): ";
                     cin >> command;
                     if (command == "y" || command == "Y") {
                         cout << "Enter the meaning of the word: ";
                         
-                        getline(cin, inputMeaning);
+                        cin>>inputMeaning;
                         test1.addNewWord(inputWord, inputMeaning);
+
+                        auto start = std::chrono::high_resolution_clock::now();
                         cout << "Successfully added the new word to the dictionary" << endl;
+                        auto end = std::chrono::high_resolution_clock::now();
+                        std::chrono::duration<double> duration = end - start;
+                        std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
+
                     }
                 }
                 cout << "Would you like to continue searching? (y/n): ";
@@ -73,25 +93,49 @@ int main()
             cout << "Enter a word to add to your favorite list: ";
             
             cin>>inputWord;
+
+
             inputWord = test1.toLowercase(inputWord); // Convert input to lowercase
             
             if (test1.search(inputWord) != "Not found") {
                 test1.addToFavoriteList(inputWord);
+
+                auto start = std::chrono::high_resolution_clock::now();
+               
+                auto end = std::chrono::high_resolution_clock::now();
+                std::chrono::duration<double> duration = end - start;
+                std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
+
             } else {
+                auto start = std::chrono::high_resolution_clock::now();
+                auto end = std::chrono::high_resolution_clock::now();
+                std::chrono::duration<double> duration = end - start;
+                std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
+
                 cout << "Sorry, this word is not in the dictionary. Do you want to add this word to the dictionary? (y/n): ";
+
+               
                 cin >> command;
                 if (command == "y" || command == "Y") {
                     cout << "Enter the meaning of the word: ";
                     
-                    getline(cin, inputMeaning);
+                    cin>>inputMeaning;
                     test1.addNewWord(inputWord, inputMeaning);
+                    
+                    auto start = std::chrono::high_resolution_clock::now();
                     cout << "Successfully added the new word to the dictionary" << endl;
+                    auto end = std::chrono::high_resolution_clock::now();
+                    std::chrono::duration<double> duration = end - start;
+                    std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
                 }
             }
             break;
 
         case 3:
             cout << "This is your favorite list: " << endl;
+
+
+
             test1.viewFavoriteList();
             cout << "Do you want to remove a word from your favorite list? (y/n): ";
             cin >> command;
@@ -100,6 +144,12 @@ int main()
             
             cin>>inputWord;
             test1.removeFromFavoriteList(inputWord);
+
+            auto start = std::chrono::high_resolution_clock::now();
+            
+            auto end = std::chrono::high_resolution_clock::now();
+            std::chrono::duration<double> duration = end - start;
+            std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
     }
             break;
 
@@ -113,8 +163,10 @@ int main()
             cin >> inputWord;
             cout << "Enter the meaning of the word: ";
              // Ignore the newline character from previous cin
-            getline(cin, inputMeaning);
+            cin>>inputMeaning;
+
             test1.addNewWord(inputWord, inputMeaning);
+
             cout << "Successfully added the new word to the dictionary" << endl;
             break;
 
@@ -128,8 +180,15 @@ int main()
             if (oldMeaning != "Not found") {
                 cout << "Old meaning: " << oldMeaning << endl;
                 cout << "Enter the new meaning: ";
-                getline(cin, inputMeaning);
+                cin>>inputMeaning;
+
+                auto start = std::chrono::high_resolution_clock::now();
                 test1.editDefinition(inputWord, inputMeaning);
+
+                auto end = std::chrono::high_resolution_clock::now();
+                std::chrono::duration<double> duration = end - start;
+                std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
+
             } else {
                 cout << "The word \"" << inputWord << "\" does not exist in the dictionary." << endl;
                 cout << "Do you want to add this word as a new word with the provided meaning? (y/n): ";
@@ -137,9 +196,15 @@ int main()
                 if (command == "y" || command == "Y") {
                     cout << "Enter the meaning of the word: ";
                     
-                    getline(cin, inputMeaning);
+                    cin>>inputMeaning;
+
+                    auto start = std::chrono::high_resolution_clock::now();
                     test1.addNewWord(inputWord, inputMeaning);
                     cout << "Successfully added the new word to the dictionary" << endl;
+                    auto end = std::chrono::high_resolution_clock::now();
+                    std::chrono::duration<double> duration = end - start;
+                    std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
+
                 }
             }
             break;
@@ -149,7 +214,15 @@ int main()
             cin>>inputWord;
             inputWord = test1.toLowercase(inputWord);
             if (test1.searchKeyword(inputWord) != "Not found") {
+
+                auto start = std::chrono::high_resolution_clock::now();
                 test1.removeWord(inputWord);
+                
+
+                auto end = std::chrono::high_resolution_clock::now();
+                std::chrono::duration<double> duration = end - start;
+                std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
+
             } else {
                 cout << "The word \"" << inputWord << "\" does not exist in the dictionary." << endl;
             }
