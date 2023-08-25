@@ -5,7 +5,7 @@ of	cua
 a	mot
 in	Trong
 to	den
-have    co
+have	co
 it	no
 I	Toi
 that	cai do
@@ -18,3 +18,4992 @@ do	lam
 say	Noi
 this	day
 they	ho
+at	tai
+but	nhung
+we	chung toi
+his	cua anh
+from	tu
+that	cai do
+not	khong phai
+n't	khong
+by	qua
+she	co ay
+or	hoac
+as	nhu
+what	Gi
+go	di
+their	cua chung
+can	co the
+who	ai
+get	lay
+if	neu
+would	se
+her	co ay
+all	tat ca cac
+my	cua toi
+make	lam
+about	Ve
+know	biet
+will	se
+as	nhu
+up	len
+one	mot
+time	thoi gian
+there	o do
+year	nam
+so	vi the
+think	nghi
+when	khi nao
+which	cai ma
+them	ho
+some	mot so
+me	toi
+people	Moi nguoi
+take	cam lay
+out	ngoai
+into	vao trong
+just	chi
+see	hieu
+him	anh ta
+your	cua ban
+come	den
+could	co the
+now	bay gio
+than	hon
+like	giong
+other	khac
+how	the nao
+then	sau do
+its	no la
+our	cua chung toi
+two	hai
+more	hon
+these	nay
+want	muon
+way	duong
+look	nhin
+first	Dau tien
+also	cung
+new	Moi
+because	tai vi
+day	ngay
+more	hon
+use	su dung
+no	khong
+man	Dan ong
+find	tim thay
+here	noi day
+thing	Dieu
+give	cho
+many	nhieu
+well	Tot
+only	chi co
+those	nhung thu kia
+tell	ke
+one	mot
+very	rat
+her	co ay
+even	tham chi
+back	mat sau
+any	khong ti nao
+good	tot
+woman	nguoi dan ba
+through	xuyen qua
+us	chung ta
+life	doi song
+child	dua tre
+there	o do
+work	cong viec
+down	xuong
+may	co the
+after	sau
+should	Nen
+call	cuoc goi
+world	the gioi
+over	ket thuc
+school	truong hoc
+still	con
+try	thu
+in	Trong
+as	nhu
+last	Cuoi cung
+ask	hoi
+need	can
+too	cung vay
+feel	cam thay
+three	so ba
+when	khi nao
+state	tieu bang
+never	khong bao gio
+become	tro thanh
+between	giua
+high	cao
+really	that su
+something	thu gi do
+most	phan lon
+another	nua
+much	nhieu
+family	gia dinh
+own	rieng
+out	ngoai
+leave	roi bo
+put	dat
+old	cu
+while	trong khi
+mean	ban tien
+on	tren
+keep	giu cho
+student	sinh vien
+why	tai sao
+let	de cho
+great	Tuyet
+same	tuong tu
+big	to lon
+group	tap doan
+begin	bat dau
+seem	hinh nhu
+country	quoc gia
+help	Cuu giup
+talk	noi chuyen
+where	o dau
+turn	xoay
+problem	van de
+every	moi
+start	bat dau
+hand	tay
+might	co the
+American	Nguoi My
+show	buoi bieu dien
+part	phan
+about	Ve
+against	chong lai
+place	noi
+over	ket thuc
+such	nhu la
+again	lai
+few	vai
+case	truong hop
+most	phan lon
+week	tuan
+company	Cong ty
+where	o dau
+system	he thong
+each	moi
+right	ben phai
+program	chuong trinh
+hear	Nghe
+so	vi the
+question	cau hoi
+during	suot trong
+work	cong viec
+play	choi
+government	chinh quyen
+run	chay
+small	nho be
+number	con so
+off	tat
+always	luon luon
+move	di chuyen
+like	giong
+night	dem
+live	truc tiep
+Mr	Ong
+point	diem
+believe	tin
+hold	to chuc
+today	hom nay
+bring	cung cap
+happen	xay ra
+next	tiep theo
+without	khong co
+before	truoc
+large	lon
+all	tat ca cac
+million	trieu
+must	phai
+home	Trang Chu
+under	Duoi
+water	nuoc
+room	phong
+write	viet
+mother	me
+area	dien tich
+national	Quoc gia
+money	tien bac
+story	cau chuyen
+young	tre tuoi
+fact	thuc te
+month	thang
+different	khac nhau
+lot	rat nhieu
+right	ben phai
+study	nghien cuu
+book	sach
+eye	con mat
+job	Cong viec
+word	tu
+though	Tuy nhien
+business	viec kinh doanh
+issue	van de
+side	canh
+kind	tot bung
+four	bon
+head	cai dau
+far	xa
+black	mau den
+long	Dai
+both	ca hai
+little	nho be
+house	nha o
+yes	Vang
+after	sau
+since	tu
+long	Dai
+provide	cung cap
+service	Dich vu
+around	vong quanh
+friend	ban be
+important	quan trong
+father	cha
+sit	ngoi
+away	xa
+until	cho den khi
+power	suc manh
+hour	gio
+game	tro choi
+often	thuong
+yet	nhung
+line	hang
+political	chinh tri
+end	cham dut
+among	giua
+ever	bao gio
+stand	dung
+bad	xau
+lose	mat
+however	tuy nhien
+member	thanh vien
+pay	tra tien
+law	phap luat
+meet	gap
+car	xe hoi
+city	thanh pho
+almost	hau het
+include	bao gom
+continue	tiep tuc
+set	bo
+later	sau
+community	cong dong
+much	nhieu
+name	Ten
+five	nam
+once	Mot lan
+white	trang
+least	it nhat
+president	chu tich
+learn	hoc
+real	co that
+change	bien doi
+team	doi
+minute	phut
+best	tot nhat
+several	mot so
+idea	y kien
+kid	dua tre
+body	than hinh
+information	thong tin
+nothing	Khong co gi
+ago	truoc kia
+right	ben phai
+lead	chi huy
+social	xa hoi
+understand	hieu biet
+whether	cho du
+back	mat sau
+watch	dong ho
+together	cung voi nhau
+follow	theo doi
+around	vong quanh
+parent	cha me
+only	chi co
+stop	dung lai
+face	doi mat
+anything	bat cu dieu gi
+create	tao ra
+public	cong cong
+already	da san sang
+speak	noi
+others	khac
+read	doc
+level	muc do
+allow	cho phep
+add	cong
+office	van phong
+spend	dung
+door	cua
+health	Suc khoe
+person	nguoi
+art	My thuat
+sure	chac chan roi
+such	nhu la
+war	chien tranh
+history	lich su
+party	bua tiec
+within	o trong
+grow	lon len
+result	ket qua
+open	mo
+change	bien doi
+morning	buoi sang
+walk	di bo
+reason	ly do
+low	Thap
+win	thang loi
+research	nghien cuu
+girl	con gai
+guy	chang
+early	som
+food	mon an
+before	truoc
+moment	khoảng khac
+himself	ban than anh ay
+air	hang khong
+teacher	giao vien
+force	luc luong
+offer	loi de nghi
+enough	day du
+both	ca hai
+education	giao duc
+across	bang qua
+although	Mac du
+remember	nho
+foot	Ban Chan
+second	thu hai
+boy	Chang trai
+maybe	co le
+toward	theo huong
+able	co the
+age	tuoi tac
+off	tat
+policy	chinh sach
+everything	moi dieu
+love	yeu va quy
+process	qua trinh
+music	Am nhac
+including	bao gom
+consider	xem xet
+appear	hien ra
+actually	thuc ra
+buy	mua
+probably	co the
+human	Nhan loai
+wait	Cho da
+serve	phuc vu
+market	thi truong
+die	chet
+send	gui
+expect	cho doi
+home	Trang Chu
+sense	y nghia
+build	xay dung
+stay	o lai
+fall	roi
+oh	Oh
+nation	dan toc
+plan	ke hoach
+cut	cat
+college	truong dai hoc
+interest	quan tam
+death	cai chet
+course	khoa hoc
+someone	nguoi nao
+experience	trai qua
+behind	phia sau
+reach	voi toi
+local	dia phuong
+kill	giet chet
+six	sau
+remain	duy tri
+effect	hieu ung
+use	su dung
+yeah	vang
+suggest	goi y
+class	lop
+control	dieu khien
+raise	nuoi
+care	quan tam
+perhaps	co le
+little	nho be
+late	muon
+hard	cung
+field	dong ruong
+else	khac
+pass	di qua
+former	truoc
+sell	ban
+major	chinh
+sometimes	thinh thoang
+require	yeu cau
+along	doc theo
+development	su phat trien
+themselves	chung toi
+report	bao cao
+role	vai dien
+better	tot hon
+economic	thuoc kinh te
+effort	co gang
+up	len
+decide	quyet dinh
+rate	ty le
+strong	manh
+possible	kha thi
+heart	trai tim
+drug	thuoc
+show	buoi bieu dien
+leader	lanh dao
+light	nhe
+voice	tieng noi
+wife	nguoi vo
+whole	tron
+police	cảnh sát vien
+mind	tam tri
+finally	cuoi cung
+pull	su loi keo
+return	tro ve
+free	tu do
+military	quan doi
+price	gia ban
+report	bao cao
+less	it hon
+according	theo
+decision	quyet dinh
+explain	giai thich
+son	Con trai
+hope	mong
+even	tham chi
+develop	phat trien, xay dung
+view	luot xem
+relationship	moi quan he
+carry	mang
+town	thi tran
+road	duong bo
+drive	lai xe
+arm	canh tay
+true	that
+federal	lien bang
+break	pha vo
+better	tot hon
+difference	Su khac biet
+thank	cam ta
+receive	nhan
+value	gia tri
+international	Quoc te
+building	Toa nha
+action	hoat dong
+full	day
+model	nguoi mau
+join	tham gia
+season	Mua
+society	xa hoi
+because	tai vi
+tax	Thue
+director	giam doc
+early	som
+position	Chuc vu
+player	nguoi choi
+agree	dong y
+especially	dac biet
+record	ghi lai
+pick	nhat
+wear	mac
+paper	giay
+special	dac biet
+space	khong gian
+ground	dat
+form	hinh thuc
+support	ung ho
+event	Su kien
+official	chinh thuc
+whose	cua ai
+matter	van de
+everyone	tat ca moi nguoi
+center	trung tam
+couple	cap doi
+site	Dia diem
+end	cham dut
+project	du an
+hit	danh
+base	co so
+activity	hoat dong
+star	ngoi sao
+table	ban
+need	can
+court	toa an
+produce	san xuat
+eat	an
+American	Nguoi My
+teach	day
+oil	dau
+half	mot nua
+situation	tinh hinh
+easy	de
+cost	Gia ca
+industry	nganh cong nghiep
+figure	nhan vạt
+face	doi mat
+street	duong pho
+image	hinh anh
+itself	chinh no
+phone	dien thoai
+either	mot trong hai
+data	du lieu
+cover	trai ra
+quite	hoan toan
+picture	hinh anh
+clear	xa la
+practice	thuc tien
+piece	manh
+land	dat
+recent	gan day
+describe	mo ta
+product	san pham
+doctor	Bac si
+wall	Tuong
+patient	benh nhan
+worker	nguoi lam viec
+news	Tin tuc
+test	kiem tra
+movie	bo phim
+certain	chac chan
+north	Bac
+love	yeu va quy
+personal	rieng tu
+open	mo
+support	ung ho
+simply	don gian
+third	ngay thu ba
+technology	Cong nghe
+catch	chup lay
+step	buoc
+baby	dua be
+computer	may tinh
+type	loai hinh
+attention	chu y
+draw	ve tranh
+film	phim anh
+Republican	Dang cong hoa
+tree	cay
+source	nguon
+red	mau do
+nearly	Gan
+organization	co quan
+choose	chon
+cause	gay ra
+hair	toc
+look	nhin
+point	diem
+century	the ky
+evidence	chung co
+window	cua so
+difficult	kho khan
+listen	nghe
+soon	Som
+culture	van hoa
+billion	ty
+chance	co hoi
+brother	Anh trai
+energy	nang luong
+period	Giai doan
+course	khoa hoc
+summer	mua he
+less	it hon
+realize	nhan ra
+hundred	tram
+available	co san
+plant	thuc vat
+likely	rat co the
+opportunity	co hoi
+term	ky han
+short	ngan
+letter	buc thu
+condition	tinh trang
+choice	su lua chon
+place	noi
+single	Doc than
+rule	qui dinh
+daughter	Con gai
+administration	su quan ly
+south	mien Nam
+husband	nguoi chong
+Congress	Hoi nghi
+floor	san nha
+campaign	chien dich
+material	vat chat
+population	dan so
+well	Tot
+call	cuoc goi
+economy	nen kinh te
+medical	Y khoa
+hospital	benh vien
+church	nha tho
+close	gan
+thousand	nghin
+risk	rui ro
+current	hien hanh
+fire	Chay
+future	Tuong lai
+wrong	Sai lam
+involve	lien quan
+defense	phong thu
+anyone	bat cu ai
+increase	tang
+security	Bao ve
+bank	ngan hang
+myself	rieng toi
+certainly	chac chan
+west	huong Tay
+sport	the thao
+board	Cai bang
+seek	tim kiem
+per	moi
+subject	mon hoc
+officer	nhan vien van phong
+private	rieng
+rest	Len dinh
+behavior	hanh vi
+deal	thoa thuan
+performance	man bieu dien
+fight	Danh nhau
+throw	nem
+top	dung dau
+quickly	mot cach nhanh chong
+past	vua qua
+goal	muc tieu
+second	thu hai
+bed	Giuong
+order	goi mon
+author	tac gia
+fill	lap day
+represent	dai dien
+focus	tieu diem
+foreign	ngoai quoc
+drop	lam roi
+plan	ke hoach
+blood	mau
+upon	tren
+agency	hãng
+push	day
+nature	thien nhien
+color	mau sac
+no	khong
+recently	gan day
+store	cua hang
+reduce	giam
+sound	am thanh
+note	Ghi chu
+fine	khoe
+before	truoc
+near	o gan
+movement	su chuyen dong
+page	trang
+enter	di vao
+share	dang lai
+than	hon
+common	pho thong
+poor	ngheo
+other	khac
+natural	Thien nhien
+race	cuoc dua
+concern	ban tam
+series	loat
+significant	co y nghia
+similar	tuong tu
+hot	nong
+language	ngon ngu
+each	moi
+usually	thuong xuyen
+response	phan ung
+dead	chet
+rise	noi len
+animal	dong vat
+factor	he so
+decade	thap ky
+article	bai bao
+shoot	ban
+east	phia dong
+save	tiet kiem
+seven	bay
+artist	hoa si
+away	xa
+scene	san khau
+stock	co phan
+career	su nghiep
+despite	cho du
+central	Trung tam
+eight	tam
+thus	do do
+treatment	su doi dai
+beyond	vuot ra ngoai
+happy	vui mung
+exactly	mot cach chinh xac
+protect	bao ve
+approach	cach tiep can
+lie	noi doi
+size	kich thuoc
+dog	chu cho
+fund	quy
+serious	nghiem tuc
+occur	xay ra
+media	phuong tien truyen thong
+ready	San sang
+sign	dau hieu
+thought	tu tuong
+list	danh sach
+individual	rieng biet, ca nhan, ca the
+simple	gian di
+quality	pham chat
+pressure	suc ep
+accept	Chap nhan
+answer	cau tra loi
+hard	cung
+resource	nguon
+identify	nhan dinh
+left	ben trai
+meeting	gap go
+determine	muc dich
+prepare	chuan bi cac
+disease	dich benh
+whatever	sao cung duoc
+success	thanh cong
+argue	tranh cai
+cup	tach
+particularly	cu the
+amount	so luong
+ability	co kha nang
+staff	Nhan Vien
+recognize	nhin nhan
+indicate	bieu thi
+character	tinh cach
+growth	su phat trien
+loss	su mat mat
+degree	bang cap
+wonder	ngac nhien
+attack	tan cong
+herself	chinh co ay
+region	vung dat
+television	Tivi
+box	hop
+TV	TV
+training	tap huan
+pretty	dep
+trade	buon ban
+deal	thoa thuan
+election	cuoc bau cu
+everybody	moi nguoi
+physical	vat ly
+lay	dat nam
+general	chung
+feeling	cam giac
+standard	Tieu chuan
+bill	hoa don
+message	thong diep
+fail	That bai
+outside	ngoai
+arrive	den
+analysis	phan tich
+benefit	loi ich
+name	Ten
+sex	tinh duc
+forward	o dang truoc
+lawyer	luat su
+present	hien nay
+section	tiet dien
+environmental	thuoc ve moi truong
+glass	thuy tinh
+answer	cau tra loi
+skill	ky nang
+sister	chi gai
+PM	BUOI CHIEU
+professor	giao su
+operation	hoat dong
+financial	tai chinh
+crime	toi ac
+stage	san khau
+ok	Vang
+compare	so sanh
+authority	tham quyen
+miss	bo lo
+design	thiet ke
+sort	loai
+one	mot
+act	hanh dong
+ten	muoi
+knowledge	hieu biet
+gun	sung
+station	tram
+blue	mau xanh da troi
+state	tieu bang
+strategy	chien luoc
+little	nho be
+clearly	ro rang
+discuss	ban luan
+indeed	that
+force	luc luong
+truth	su that
+song	bai hat
+example	thi du
+democratic	dan chu
+check	kiem tra
+environment	Moi truong
+leg	Chan
+dark	toi
+public	cong cong
+various	nhieu
+rather	hon la
+laugh	cuoi
+guess	doan
+executive	chap hanh, quan ly
+set	bo
+study	nghien cuu
+prove	chung to
+hang	hang
+entire	toan bo
+rock	da
+design	thiet ke
+enough	day du
+forget	quen di
+since	tu
+claim	yeu cau
+note	Ghi chu
+remove	go bo
+manager	nguoi quan ly
+help	Cuu giup
+close	gan
+sound	am thanh
+enjoy	vui thich
+network	mang
+legal	hop phap
+religious	Ton giao
+cold	lanh
+form	hinh thuc
+final	cuoi cung
+main	chinh
+science	khoa hoc
+green	mau xanh la
+memory	ki niem
+card	The
+above	o tren
+seat	ghe
+cell	te bao
+establish	thanh lap
+nice	dep
+trial	thu nghiem
+expert	chuyen gia
+that	cai do
+spring	mua xuan
+firm	chac chan
+Democrat	Dang vien dan chu
+radio	Dai
+visit	chuyen tham
+management	ban quan ly
+care	quan tam
+avoid	tranh xa
+imagine	tuong tuong
+tonight	dem nay
+huge	to lon
+ball	trai bong
+no	khong
+close	gan
+finish	ket thuc
+yourself	chinh ban
+talk	noi chuyen
+theory	hoc thuyet
+impact	va cham
+respond	dap ung
+statement	ban tuong trinh
+maintain	duy tri
+charge	sac pin
+popular	noi tieng
+traditional	co truyen
+onto	tren
+reveal	boc lo
+direction	huong di
+weapon	vu khi
+employee	Nhan vien
+cultural	thuoc van hoa
+contain	Luu tru
+peace	hoa binh
+head	cai dau
+control	dieu khien
+base	co so
+pain	dau don
+apply	ung dung
+play	choi
+measure	do luong
+wide	rong
+shake	rung chuyen
+fly	ruoi
+interview	phong van
+manage	quan ly
+chair	cai ghe
+fish	ca
+particular	cu the
+camera	May anh
+structure	ket cau
+politics	chinh tri
+perform	trinh dien
+bit	chut
+weight	trong luong
+suddenly	dot ngot
+discover	phat hien
+candidate	ung vien
+top	dung dau
+production	san xuat
+treat	dieu tri
+trip	chuyen di
+evening	toi
+affect	anh huong
+inside	noi bo
+conference	hoi nghi
+unit	don vi
+best	tot nhat
+style	Phong cach
+adult	nguoi lon
+worry	lo
+range	pham vi
+mention	de cap den
+rather	hon la
+far	xa
+deep	sau
+past	vua qua
+edge	bo ria
+individual	rieng biet, ca nhan, ca the
+specific	rieng
+writer	nha van
+trouble	rac roi
+necessary	can thiet
+throughout	khap
+challenge	thach dau
+fear	noi so
+shoulder	vai
+institution	To chuc
+middle	o giua
+sea	bien
+dream	mo uoc
+bar	quan ba
+beautiful	xinh dep
+property	tai san
+instead	thay vi
+improve	cai thien
+stuff	do dac
+detail	chi tiet
+method	phuong phap
+sign	dau hieu
+somebody	co ai
+magazine	tap chi
+hotel	khach san
+soldier	linh
+reflect	phan anh
+heavy	nang
+sexual	tinh duc
+cause	gay ra
+bag	cai tui
+heat	nhiet
+fall	roi
+marriage	hon nhan
+tough	kho
+sing	hat
+surface	mat
+purpose	muc dich
+exist	hien huu
+pattern	hoa tiet
+whom	ai
+skin	lan da
+agent	dai ly
+owner	chu nhan
+machine	co may
+gas	khi ga
+down	xuong
+ahead	phia truoc
+generation	the he
+commercial	Quang cao
+address	dia chi
+cancer	ung thu
+test	kiem tra
+item	muc
+reality	thuc te
+coach	huan luyen vien
+step	buoc
+Mrs	Ba
+yard	san
+beat	danh dap
+violence	bao luc
+total	toan bo
+tend	co khuynh huong
+investment	su dau tu
+discussion	thao luan
+finger	ngon tay
+garden	san vuon
+notice	de y
+collection	thu thap
+modern	hien dai
+task	nhiem vu
+partner	ban dong hanh
+positive	tich cuc
+civil	dan su
+kitchen	phong bep
+consumer	khach hang
+shot	ban
+budget	ngan sach
+wish	dieu uoc
+painting	buc tranh
+scientist	nha khoa hoc
+safe	an toan
+agreement	hiep dinh
+capital	thu do
+mouth	mieng
+nor	cung khong
+victim	nan nhan
+newspaper	bao chi
+instead	thay vi
+threat	moi de doa
+responsibility	nhiem vu
+smile	nu cuoi
+attorney	luat su
+score	ghi ban
+account	tai khoan
+interesting	thu vi
+break	pha vo
+audience	su tiep kien
+rich	giau co
+dinner	bua toi
+figure	nhan vạt
+vote	bo phieu
+western	mien Tay
+relate	ke lai
+travel	di du lich
+debate	tranh luan
+prevent	ngan ngua
+citizen	nguoi dan
+majority	so dong
+none	khong ai
+front	doi dien
+born	sinh ra
+admit	thua nhan
+senior	nguoi lon tuoi
+assume	gia dinh
+wind	gio
+key	Chia khoa
+professional	chuyen nghiep
+mission	nhiem vu
+fast	Nhanh
+alone	mot minh
+customer	khach hang
+suffer	dau kho
+speech	loi noi
+successful	thanh cong
+option	quyen mua
+participant	nguoi tham gia
+southern	phia Nam
+fresh	moi
+eventually	sau cung
+no	khong
+forest	rung
+video	video
+global	toan cau
+Senate	Thuong nghi vien
+reform	cai cach
+access	truy cap
+restaurant	quan an
+judge	tham phan
+publish	cong bo
+cost	Gia ca
+relation	quan he
+like	giong
+release	phong thich
+own	rieng
+bird	chim
+opinion	y kien
+credit	tin dung
+critical	phe binh
+corner	goc
+concerned	lo lang
+recall	Goi lai
+version	phien ban
+stare	nhin cham cham
+safety	su an toan
+effective	hieu qua
+neighborhood	khu vuc lan can
+original	nguyen ban
+act	hanh dong
+troop	doan quan
+income	thu nhap = earnings
+directly	truc tiep
+hurt	dau
+species	loai
+immediately	ngay lap tuc
+track	theo doi
+basic	nen tang
+strike	danh dap
+hope	mong
+sky	bau troi
+freedom	su tu do
+absolutely	chac chan roi
+plane	chiec may bay
+nobody	khong ai
+achieve	Hoan thanh
+object	su vat
+attitude	Thai do
+labor	nhan cong
+refer	tham khao
+concept	y tuong
+client	khach hang
+powerful	manh me
+perfect	hoan hao
+nine	chin
+therefore	vi the
+conduct	hanh kiem
+announce	thong bao
+conversation	cuoc hoi thoai
+examine	nghien cuu
+touch	cham
+please	lam on
+attend	tham du
+completely	hoan toan
+vote	bo phieu
+variety	da dang
+sleep	ngu
+turn	xoay
+involved	co lien quan
+investigation	cuoc dieu tra
+nuclear	Nguyen tu
+researcher	nha nghien cuu
+press	nhan
+conflict	xung dot
+spirit	tinh than
+experience	trai qua
+replace	thay the
+British	nguoi Anh
+encourage	khuyen khich
+lot	rat nhieu
+lot	rat nhieu
+lot	rat nhieu
+lot	rat nhieu
+argument	tranh luan
+by	qua
+once	Mot lan
+camp	cam trai
+brain	nao
+feature	tinh nang
+afternoon	buoi chieu
+AM	sang
+weekend	ngay cuoi tuan
+dozen	ta
+possibility	kha nang
+along	doc theo
+insurance	bao hiem
+department	Phong ban
+battle	tran danh
+beginning	bat dau
+date	ngay
+generally	noi chung la
+African	Nguoi chau Phi
+very	rat
+sorry	lay lam tiec
+crisis	khung hoang
+complete	hoan thanh
+fan	quat
+stick	dinh vao
+define	dinh nghia
+easily	mot cach de dang
+through	xuyen qua
+hole	ho
+element	yeu to
+vision	tam nhin
+status	trang thai
+normal	thong thuong
+Chinese	nguoi Trung Quoc
+ship	van chuyen
+solution	dung dich
+stone	soi
+slowly	cham rai
+scale	ti le
+bit	chut
+university	truong dai hoc
+introduce	gioi thieu
+driver	nguoi lai xe
+attempt	no luc
+park	cong vien
+spot	diem
+lack	thieu
+ice	Nuoc da
+boat	con thuyen
+drink	uong
+sun	mat troi
+front	doi dien
+distance	khoang cach
+wood	go
+handle	xu ly
+truck	xe tai
+return	tro ve
+mountain	nui
+survey	su khao sat
+supposed	gia su
+tradition	truyen thong
+winter	mua dong
+village	lang que
+Soviet	Xo Viet
+refuse	tu choi
+sales	ban hang
+roll	cuon
+communication	lien lac
+run	chay
+screen	man hinh
+gain	loi
+resident	cu dan
+hide	an giau
+gold	vang
+club	cau lac bo
+future	Tuong lai
+farm	nong trai
+potential	tiem nang
+increase	tang
+middle	o giua
+European	Chau au
+presence	su hien dien
+independent	song doc lap
+district	quan
+shape	hinh dang
+reader	nguoi doc
+Ms	Benh da xo cung
+contract	hop dong
+crowd	dam dong
+Christian	Thien chua giao
+express	bay to
+apartment	can ho, chung cu
+willing	san long
+strength	suc manh
+previous	Truoc
+band	ban nhac
+obviously	ro rang
+horse	ngua
+interested	quan tam den
+target	Muc tieu
+prison	tu giam
+ride	dap xe
+guard	bảo vẹ
+terms	dieu kien
+demand	yeu cau
+reporter	phong vien
+deliver	giao
+text	chu
+share	dang lai
+tool	dung cu
+wild	hoang dai
+vehicle	phuong tien giao thong
+observe	quan sat
+flight	chuyen bay
+inside	noi bo
+facility	co so
+understanding	su hieu biet
+average	trung binh
+emerge	hien ra
+advantage	thuan loi
+quick	nhanh
+light	nhe
+leadership	Kha nang lanh dao
+earn	kiem
+pound	pao
+basis	nen tang
+bright	sang
+operate	van hanh
+guest	khach moi
+sample	vat mau
+contribute	Gop phan
+tiny	nho be
+block	khoi
+protection	su bao ve
+settle	on dinh
+feed	cho an
+collect	suu tam
+additional	them vao
+while	trong khi
+highly	cao
+identity	xac thuc
+title	Tieu de
+mostly	hau het
+lesson	bai hoc
+faith	su tin tuong
+river	con song
+promote	khuyen khich
+living	cuoc song
+present	hien nay
+count	dem
+unless	tru khi
+marry	ket hon
+tomorrow	ngay mai
+technique	ki thuat
+path	duong dan
+ear	tai
+shop	cua tiem
+folk	dan gian
+order	goi mon
+principle	nguyen tac
+survive	ton tai
+lift	nang
+border	bien gioi
+competition	cuoc dua, cuoc thi
+jump	nhay
+gather	tu hop
+limit	gioi han
+fit	Phu hop
+claim	yeu cau
+cry	khoc
+equipment	Trang thiet bi
+worth	dang gia
+associate	ket hop
+critic	nha phe binh
+warm	am ap
+aspect	dien mao
+result	ket qua
+insist	khang khang
+failure	that bai
+annual	hang nam
+French	nguoi Phap
+Christmas	Giang sinh
+comment	binh luan
+responsible	co tinh than trach nhiem
+affair	cong viec
+approach	cach tiep can
+until	cho den khi
+procedure	thu tuc
+regular	thuong xuyen
+spread	Lan tran
+chairman	Chu tich
+baseball	bong chay
+soft	mem
+ignore	phot lo
+egg	trung
+measure	do luong
+belief	su tin tuong
+demonstrate	chung minh
+anybody	bat ky ai
+murder	giet nguoi
+gift	qua tang
+religion	ton giao
+review	kiem tra lai
+editor	nguoi bien tap
+past	vua qua
+engage	dinh hon
+coffee	ca phe
+document	tai lieu
+speed	toc do, van toc
+cross	di qua
+influence	anh huong
+anyway	du sao
+threaten	ham doa
+commit	lam
+female	giong cai
+youth	thieu nien
+wave	song
+move	di chuyen
+afraid	so
+quarter	phan tu
+background	lai lich
+native	tu nhien
+broad	rong lon
+wonderful	Tuyet voi
+deny	phu nhan
+apparently	ro rang
+slightly	khinh bi
+reaction	su phan ung lai
+twice	hai lan
+suit	bo do
+perspective	luat xa gan
+growing	phat trien
+blow	thoi
+construction	su thi cong
+kind	tot bung
+intelligence	Su thong minh
+destroy	huy hoai
+cook	dau bep
+connection	su lien quan
+charge	sac pin
+burn	dot chay
+shoe	giay
+view	luot xem
+grade	lop
+context	dinh nghia bai van
+committee	uy ban
+hey	nay
+mistake	sai lam, dieu sai, ngo nhan
+focus	tieu diem
+smile	nu cuoi
+location	dia diem
+clothes	quan ao
+Indian	nguoi An Do
+quiet	im lang
+dress	mac quan ao
+promise	hua
+aware	nhan thuc
+neighbor	lang gieng
+complete	hoan thanh
+drive	lai xe
+function	ham so
+bone	xuong
+active	tich cuc
+extend	gia han
+chief	truong phong
+average	trung binh
+combine	ket hop
+wine	ruou
+below	phia duoi
+cool	mat me
+voter	cu tri
+mean	ban tien
+demand	yeu cau
+learning	hoc tap
+bus	xe buyt
+hell	Dia nguc
+dangerous	su nguy hiem
+remind	nhac lai
+moral	co dao duc
+United	United
+category	the loai
+relatively	tuong doi
+victory	chien thang
+key	Chia khoa
+academic	thuoc ve ly thuyet
+visit	chuyen tham
+Internet	Internet
+healthy	khoe manh
+fire	Chay
+negative	phu dinh
+following	tiep theo
+historical	lich su
+medicine	duoc pham
+tour	chuyen du lich
+depend	tuy theo
+photo	anh
+finding	Phat hien
+grab	vo lay
+direct	thang than
+classroom	lop hoc
+contact	tiep xuc
+justice	Su cong bang
+participate	tham du
+daily	hang ngay
+fair	cong bang
+pair	doi
+famous	noi tieng
+exercise	tap the duc
+knee	dau goi
+flower	hoa
+tape	bang
+hire	Thue
+familiar	Quen biet
+appropriate	phu hop
+supply	cung cap
+fully	day du
+cut	cat
+will	se
+actor	dien vien nam
+birth	Sinh
+search	Tim kiem
+tie	buoc
+democracy	nen dan chu
+eastern	phuong Dong
+primary	so dang
+yesterday	hom qua
+circle	vong tron
+device	thiet bi
+progress	tien trien
+next	tiep theo
+front	doi dien
+bottom	day
+island	Dao
+exchange	trao doi
+clean	lau don
+studio	phong thu
+train	xe lua
+lady	quy ba
+colleague	dong nghiep
+application	dang ki
+neck	cai co
+lean	do nghieng
+damage	chan thuong
+plastic	nhua
+tall	cao
+plate	dia an
+hate	ghet bo
+otherwise	neu khong thi
+writing	viet
+press	nhan
+male	Nam gioi
+start	bat dau
+alive	con song
+expression	bieu hien
+football	bong da
+intend	co y dinh
+attack	tan cong
+chicken	Ga
+army	quan doi
+abuse	lam dung
+theater	rap hat
+shut	dong cua
+map	ban do
+extra	them
+session	phien hop
+danger	su nguy hiem
+welcome	hoan nghenh
+domestic	noi dia
+lots	rat nhieu
+literature	van chuong
+rain	con mua
+desire	khao khat
+assessment	tham dinh, luong dinh, danh gia
+injury	vet thuong
+respect	kinh trong
+northern	Phuong bac
+nod	gat dau
+paint	son
+fuel	nhien lieu
+leaf	La cay
+direct	thang than
+dry	kho
+Russian	tieng Nga
+instruction	huong dan
+fight	Danh nhau
+pool	ho boi
+climb	treo
+sweet	ngot
+lead	chi huy
+engine	dong co
+fourth	thu tu
+salt	Muoi
+expand	mo rong
+importance	tam quan trong
+metal	kim loai
+fat	map map
+ticket	ve
+software	phan mem
+disappear	bien mat
+corporate	cong ty
+strange	la lung
+lip	moi
+reading	doc hieu
+urban	do thi
+mental	tam than
+increasingly	ngay cang
+lunch	Bua trua
+educational	giao duc
+somewhere	mot vai noi
+farmer	nong phu
+above	o tren
+sugar	Duong
+planet	hanh tinh
+favorite	yeu thich
+explore	kham pha
+obtain	duoc
+enemy	ke thu
+greatest	vi dai nhat
+complex	to hop
+surround	vay quanh
+athlete	luc si
+invite	moi
+repeat	noi lai
+carefully	can than
+soul	Linh hon
+scientific	thuoc ve khoa hoc
+impossible	Khong the nao
+panel	bang dieu khien
+meaning	Y nghia
+mom	me
+married	cuoi nhau
+alone	mot minh
+instrument	dung cu
+predict	du doan
+weather	thoi tiet
+presidential	tong thong
+emotional	xuc dong
+commitment	loi cam ket
+Supreme	Toi cao
+bear	con gau
+pocket	tui
+thin	gay
+temperature	nhiet do
+surprise	bat ngo
+poll	cuoc tham do y kien
+proposal	de nghi
+consequence	hau qua
+half	mot nua
+breath	hoi tho
+sight	thi giac
+cover	trai ra
+balance	THANG BANG
+adopt	nhan nuoi
+minority	thieu so
+straight	dai
+attempt	no luc
+connect	lien ket
+works	lam
+teaching	giang bai
+belong	thuoc ve
+aid	su giup do
+advice	loi khuyen
+okay	Duoc chu
+photograph	anh chup
+empty	trong rong
+regional	khu vuc
+trail	duong mon
+novel	cuon tieu thuyet
+code	ma so
+somehow	bang cach nao do
+organize	to chuc
+jury	boi tham doan
+breast	nhu hoa
+Iraqi	nguoi Iraq
+human	Nhan loai
+acknowledge	thua nhan
+theme	chu de
+storm	bao tap
+union	lien hiep
+record	ghi lai
+desk	ban
+fear	noi so
+thanks	cam on
+fruit	trai cay
+under	Duoi
+expensive	dat tien
+yellow	mau vang
+conclusion	phan ket luan
+prime	nguyen to
+shadow	bong
+struggle	dau tranh
+conclude	ket luan
+analyst	nha phan tich
+dance	nhay
+limit	gioi han
+like	giong
+regulation	Quy dinh
+being	hien tai
+last	Cuoi cung
+ring	vong
+largely	phan lon
+shift	su thay doi
+revenue	doanh thu
+mark	dau
+locate	dinh vi
+county	quan hat
+appearance	ve be ngoai
+package	buu kien
+difficulty	su kho khan
+bridge	cau
+recommend	gioi thieu
+obvious	ro rang
+train	xe lua
+basically	ve co ban
+e-mail	e-mail
+generate	phat ra
+anymore	nua khong
+propose	cau hon
+thinking	tu duy
+possibly	co kha nang
+trend	xu huong
+visitor	khach tham quan
+loan	tien vay
+currently	hien nay
+comfortable	Thoai mai
+investor	chu dau tu
+but	nhung
+profit	loi nhuan
+angry	tuc gian
+crew	phi hanh doan
+deep	sau
+accident	Tai nan
+male	Nam gioi
+meal	bua an
+hearing	thinh giac
+traffic	giao thong
+muscle	bap thit
+notion	khai niem
+capture	chiem lay
+prefer	thich hon
+truly	thuc su
+earth	Trai dat
+Japanese	tieng Nhat
+chest	nguc
+search	Tim kiem
+thick	dac
+cash	tien mat
+museum	vien bao tang
+beauty	sac dep, ve dep
+emergency	khan cap
+unique	doc nhat
+feature	tinh nang
+internal	noi bo
+ethnic	dan toc
+link	lien ket
+stress	cang thang
+content	Noi dung
+select	lua chon
+root	nguon goc
+nose	mui
+declare	tuyen bo
+outside	ngoai
+appreciate	danh gia cao
+actual	that su
+bottle	chai
+hardly	khac nghiet
+setting	cai dat
+launch	phong
+dress	mac quan ao
+file	tap tin
+sick	bi om
+outcome	ket cuc
+ad	quang cao
+defend	phong ve
+matter	van de
+judge	tham phan
+duty	nghia vu
+sheet	to giay
+ought	phai
+ensure	chac chan
+Catholic	Cong giao
+extremely	vo cung
+extent	muc do
+component	thanh phan
+mix	pha tron
+long-term	dai han
+slow	cham
+contrast	tuong phan
+zone	vung
+wake	thuc day
+challenge	thach dau
+airport	phi truong
+chief	truong phong
+brown	nau
+standard	Tieu chuan
+shirt	ao so mi
+pilot	Phi cong
+warn	canh bao
+ultimately	cuoi cung
+cat	con meo
+contribution	su dong gop
+capacity	dung tich
+ourselves	chinh chung ta
+estate	tai san
+guide	huong dan
+circumstance	hoan canh
+snow	tuyet
+English	Tieng Anh
+politician	chinh khach
+steal	an cap
+pursue	theo duoi
+slip	truot
+percentage	ty le phan tram
+meat	thit
+funny	vui
+neither	cung khong
+soil	dat
+influence	anh huong
+surgery	phau thuat
+correct	Chinh xac
+Jewish	Do Thai
+blame	do toi
+estimate	uoc tinh
+due	qua han
+basketball	bong ro
+late	muon
+golf	golf
+investigate	dieu tra
+crazy	khung
+significantly	dang ke
+chain	chuoi
+address	dia chi
+branch	chi nhanh
+combination	su ket hop
+just	chi
+frequently	thuong xuyen
+governor	thong doc
+relief	su cuu te
+user	nguoi su dung
+dad	bo
+kick	da
+part	phan
+manner	thai do
+ancient	co dai
+silence	Im lang
+rating	Xep hang
+golden	vang
+motion	cu dong
+German	tieng Duc
+gender	gioi tinh
+solve	giai quyet
+fee	phi
+landscape	phong canh
+used	da su dung
+bowl	bat
+equal	binh dang
+long	Dai
+official	chinh thuc
+forth	ra ngoai
+frame	khung
+typical	dac trung
+except	ngoai tru
+conservative	bao thu
+eliminate	loai bo
+host	chu nha
+hall	dai sanh
+trust	Long tin
+ocean	dai duong
+score	ghi ban
+row	hang ngang
+producer	nguoi san xuat
+afford	du kha nang
+meanwhile	trong khi do
+regime	che do
+division	phan cong
+confirm	xac nhan
+fix	sua chua
+appeal	bat mat
+mirror	guong
+tooth	rang
+smart	thong minh
+length	chieu dai
+entirely	toan bo
+rely	phu thuoc
+topic	chu de
+complain	than phien
+issue	van de
+variable	Bien doi
+back	mat sau
+range	pham vi
+telephone	Dien thoai
+perception	su nhan thuc
+attract	thu hut
+confidence	long tin
+bedroom	phong ngu
+secret	bi mat
+debt	no nan
+rare	quy hiem
+his	cua anh
+tank	xe tang
+nurse	y ta
+coverage	phu song
+opposition	Su doi lap
+aside	qua mot ben
+anywhere	bat cu noi nao
+bond	lien ket
+file	tap tin
+pleasure	vui long
+master	bac thay
+era	ky nguyen
+requirement	yeu cau
+check	kiem tra
+stand	dung
+fun	vui ve
+expectation	ky vong
+wing	canh
+separate	tach roi
+now	bay gio
+clear	xa la
+struggle	dau tranh
+mean	ban tien
+somewhat	phan nao
+pour	do
+stir	khuay dong
+judgment	su phan xet
+clean	lau don
+except	ngoai tru
+beer	bia
+English	Tieng Anh
+reference	tai lieu tham khao
+tear	xe
+doubt	nghi ngo
+grant	ban cho
+seriously	nghiem tuc
+account	tai khoan
+minister	bo truong, muc su
+totally	Tong cong
+hero	anh hung
+industrial	cong nghiep
+cloud	dam may
+stretch	cang ra
+winner	nguoi chien thang
+volume	am luong
+travel	di du lich
+seed	hat giong
+surprised	ngac nhien
+rest	Len dinh
+fashion	thoi trang
+pepper	hat tieu
+separate	tach roi
+busy	ban
+intervention	su can thiep
+copy	sao chep
+tip	tien boa
+below	phia duoi
+cheap	re
+aim	muc dich
+cite	trich dan
+welfare	phuc loi
+vegetable	rau qua
+gray	xam
+dish	mon an
+beach	bo bien
+improvement	su cai tien
+everywhere	moi noi
+opening	khai mac
+overall	tong the
+divide	chia
+initial	ban dau
+terrible	kinh khung
+oppose	phan doi
+contemporary	duong thoi
+route	tuyen duong
+multiple	nhieu
+essential	Can thiet
+question	cau hoi
+league	lien doan
+criminal	toi pham
+careful	can than
+core	cot loi
+upper	phia tren
+rush	cay bac
+necessarily	nhat thiet
+specifically	dac biet
+tired	met moi
+rise	noi len
+tie	buoc
+employ	thue
+holiday	ngay le
+dance	nhay
+vast	bao la
+resolution	nghi quyet
+household	ho gia dinh
+fewer	it hon
+abortion	su pha thai
+apart	rieng biet
+witness	nhan chung
+match	cuoc thi dau
+barely	vua du
+sector	khu vuc
+representative	Tieu bieu
+lack	thieu
+beneath	o ben duoi
+beside	ben canh
+black	mau den
+incident	su co
+limited	gioi han
+proud	hanh dien
+flow	luu luong
+faculty	khoa
+increased	tang
+waste	chat thai
+merely	don thuan
+mass	khoi luong
+emphasize	nhan manh
+experiment	cuoc thi nghiem
+definitely	chac chan
+bomb	bom
+enormous	lon lao
+tone	tan
+liberal	phong khoang
+massive	to lon
+engineer	ki su
+wheel	banh xe
+female	giong cai
+decline	tu choi
+invest	dau tu
+promise	hua
+cable	cap
+towards	doi voi
+expose	phoi ra
+rural	nong thon
+AIDS	AIDS
+Jew	Nguoi do thai
+narrow	chat hep
+cream	kem
+secretary	Thu ky
+gate	cong
+solid	chat ran
+hill	doi nui
+typically	tieu bieu
+noise	tieng on
+grass	co
+unfortunately	Khong may
+hat	cai mu
+legislation	phap luat
+succeed	thanh cong
+either	mot trong hai
+celebrate	ki niem
+achievement	thanh tich
+fishing	danh bat ca
+drink	uong
+accuse	buoc toi
+hand	tay
+useful	huu ich
+land	dat
+secret	bi mat
+reject	Tu choi
+talent	tai nang
+taste	nem thu
+characteristic	dac tinh
+milk	Sua
+escape	thoat khoi
+cast	dan dien vien
+sentence	ket an
+unusual	khong binh thuong
+closely	chat che
+convince	thuyet phuc
+height	Chieu cao
+physician	bac si
+assess	danh gia
+sleep	ngu
+plenty	nhieu
+ride	dap xe
+virtually	hau nhu
+first	Dau tien
+addition	phep cong
+sharp	nhon
+creative	sang tao
+lower	thap hon
+behind	phia sau
+approve	chap thuan
+explanation	giai trinh
+outside	ngoai
+gay	gay
+campus	khuon vien
+proper	thich hop
+live	truc tiep
+guilty	toi loi
+living	cuoc song
+acquire	co duoc, thu duoc
+compete	tranh dua
+technical	ky thuat
+plus	them
+mind	tam tri
+potential	tiem nang
+immigrant	di tru
+weak	Yeu
+illegal	khong hop le
+hi	Chao
+alternative	thay the
+interaction	su tuong tac
+column	cot
+personality	tinh cach
+signal	dau hieu
+curriculum	chuong trinh giang day
+list	danh sach
+honor	ton kinh
+passenger	hanh khach
+assistance	ho tro
+forever	mai mai
+fun	vui ve
+regard	ve
+Israeli	Nguoi Israel
+association	su ket hop
+twenty	hai muoi
+knock	cu danh
+review	kiem tra lai
+wrap	boc
+lab	phong thi nghiem
+offer	loi de nghi
+display	trung bay
+criticism	su chi trich
+asset	tai san
+depression	Phien muon
+spiritual	thuoc linh
+musical	am nhac
+journalist	nha bao
+prayer	nguoi cau nguyen
+suspect	nghi ngo
+scholar	hoc gia
+warning	canh bao
+climate	khi hau
+cheese	pho mai
+observation	quan sat
+childhood	thoi tho au
+payment	thanh toan
+sir	quy ngai
+permit	cho phep lam gi
+cigarette	thuoc la
+definition	Dinh nghia
+priority	quyen uu tien
+bread	banh mi
+creation	su sang tao
+graduate	tot nghiep
+request	loi yeu cau
+emotion	cam xuc
+scream	la het
+dramatic	kich
+universe	vu tru
+gap	khoảng cách
+excellent	Xuat sac
+deeply	sau sac
+prosecutor	cong to vien
+mark	dau
+green	mau xanh la
+lucky	may man
+drag	loi keo
+airline	hang hang khong
+library	thu vien
+agenda	chuong trinh nghi su
+recover	hoi phuc
+factory	nha may
+selection	su lua chon
+primarily	chu yeu
+roof	mai nha
+unable	khong the
+expense	chi phi
+initiative	sang kien
+diet	che do an
+arrest	bat giu
+funding	kinh phi
+therapy	tri lieu
+wash	rua sach
+schedule	lich trinh
+sad	buon
+brief	ngan gon
+housing	nha o
+post	buu kien
+purchase	mua, tua vao, bam vao
+existing	hien co
+dark	toi
+steel	Thep
+regarding	ve
+shout	keu la
+remaining	con lai
+visual	truc quan
+fairly	cong bang
+chip	Chip
+violent	hung bao
+silent	im lang
+suppose	gia su
+self	ban than
+bike	xe dap
+tea	tra
+perceive	nhan thuc
+comparison	su so sanh
+settlement	dinh cu
+layer	lop
+planning	lap ke hoach
+far	xa
+description	su mo ta
+later	sau
+slow	cham
+slide	truot
+widely	rong rai
+wedding	le cuoi
+inform	bao
+portion	phan
+territory	lanh tho
+immediate	ngay tuc khac
+opponent	phan doi
+abandon	bo roi
+link	lien ket
+mass	khoi luong
+lake	ho
+transform	bien doi
+tension	cang thang
+display	trung bay
+leading	dan dau
+bother	lam phien
+consist	bao gom
+alcohol	ruou bia
+enable	cho phep
+bend	be cong
+saving	tiet kiem
+gain	loi
+desert	sa mac
+shall	nen
+error	loi
+release	phong thich
+cop	canh sat
+Arab	A Rap
+double	kep
+walk	di bo
+sand	cat
+Spanish	nguoi Tay Ban Nha
+rule	qui dinh
+hit	danh
+print	in
+preserve	bao ton
+passage	doan van
+formal	chinh thuc
+transition	chuyen tiep
+existence	su ton tai
+album	album
+participation	su tham gia
+arrange	sap xep
+atmosphere	khi quyen
+joint	chung
+reply	Dap lai
+cycle	di xe dap
+opposite	doi nghich
+lock	Khoa
+whole	tron
+deserve	xung dang
+consistent	thich hop
+resistance	Suc can
+discovery	kham pha
+tear	xe
+exposure	Phoi bay
+pose	tu the
+stream	dong
+sale	doanh thu
+trust	Long tin
+benefit	loi ich
+pot	noi
+grand	lon
+mine	cua toi
+hello	xin chao
+coalition	lien minh
+tale	cau chuyen
+knife	dao
+resolve	giai quyet
+racial	chung toc
+phase	giai doan
+present	hien nay
+joke	cau noi dua
+coat	ao choang ngoai
+Mexican	Nguoi Mexico
+symptom	trieu chung
+contact	tiep xuc
+manufacturer	nha che tao
+philosophy	triet hoc
+potato	khoai tay
+interview	phong van
+foundation	nen tang
+quote	Trich dan
+online	Truc tuyen
+pass	di qua
+negotiation	dam phan
+good	tot
+urge	thuc giuc
+occasion	dip
+dust	bui bam
+breathe	tho
+elect	trung tuyen
+investigator	nguoi dieu tra
+jacket	Ao khoac
+glad	vui ve
+ordinary	binh thuong
+reduction	su giam bot
+rarely	it khi
+shift	su thay doi
+pack	dong goi
+suicide	tu sat
+numerous	nhieu
+touch	cham
+substance	vat chat
+discipline	ky luat
+elsewhere	noi khac
+iron	sat
+practical	thuc dung
+moreover	hon the nua
+passion	su dam me
+volunteer	Tinh nguyen vien
+implement	thuc hien
+essentially	Thiet yeu
+gene	gien
+enforcement	thuc thi
+vs	vs
+sauce	Nuoc xot
+independence	Su doc lap
+marketing	tiep thi
+priest	thay tu
+amazing	kinh ngac
+intense	manh liet
+advance	nang cao
+employer	nha tuyen dung
+shock	soc
+inspire	truyen cam hung
+adjust	dieu chinh
+retire	ve huu
+sure	chac chan roi
+visible	co the nhin thay
+kiss	hon
+illness	benh
+cap	mu luoi trai
+habit	thoi quen
+competitive	canh tranh
+juice	Nuoc ep
+congressional	quoc hoi
+involvement	su tham gia
+dominate	thong tri
+previously	truoc day
+whenever	bat cu khi nao
+transfer	chuyen khoan
+analyze	phan tich
+another	nua
+attach	gan
+for	vi
+Indian	nguoi An Do
+disaster	tham hoa
+parking	bai dau xe
+prospect	tiem nang
+boss	trum
+complaint	loi phan nan
+championship	chuc vo dich
+coach	huan luyen vien
+exercise	tap the duc
+fundamental	co ban
+severe	du doi
+enhance	nang cao
+mystery	huyen bi
+impose	ap dat
+poverty	ngheo nan
+other	khac
+entry	loi vao
+fat	map map
+spending	chi tieu
+king	nha vua
+evaluate	Thuc giuc
+symbol	Bieu tuong
+still	con
+trade	buon ban
+maker	nguoi che tao
+mood	khi sac
+accomplish	hoan thanh
+emphasis	nhan manh
+illustrate	Minh hoa
+boot	khoi dong
+monitor	man hinh
+Asian	Chau A
+entertainment	giai tri
+bean	hat dau
+evaluation	su danh gia
+creature	sinh vat
+commander	chi huy
+digital	ky thuat so
+arrangement	su sap xep
+concentrate	tap trung
+total	toan bo
+usual	binh thuong
+anger	Su phan no
+psychological	tam ly
+heavily	nang ne
+peak	dinh cao
+approximately	khoang
+increasing	tang
+disorder	roi loan
+missile	hoa tien
+equally	ngang nhau
+vary	thay dỏi
+wire	day dien
+round	vong
+distribution	phan bo
+transportation	van chuyen
+holy	thanh thien
+ring	vong
+twin	sinh doi
+command	yeu cau
+commission	Uy ban
+interpretation	dien dich
+breakfast	bua an sang
+stop	dung lai
+strongly	manh me
+engineering	ky thuat
+luck	may man
+so-called	cai goi la
+constant	khong thay doi
+race	cuoc dua
+clinic	phong kham
+veteran	cuu chien binh
+smell	danh hoi
+tablespoon	muong canh
+capable	co kha nang
+nervous	than kinh
+tourist	du khach
+light	nhe
+toss	quang
+crucial	quan trong
+bury	chon
+pray	cau nguyen
+tomato	ca chua
+exception	ngoai le
+butter	bo
+deficit	thieu hut hoac khuyet
+bathroom	phong tam
+objective	khach quan
+block	khoi
+electronic	dien tu
+ally	dong minh
+journey	hanh trinh
+reputation	danh tieng
+mixture	hon hop
+surely	chac chan
+tower	toa thap
+smoke	Khoi
+confront	doi dau
+pure	thuan khiet
+glance	nhin luot qua
+dimension	kich thuoc
+toy	do choi
+prisoner	Tu nhan
+fellow	dong bon
+smooth	tron tru
+nearby	gan day
+peer	ngang nhau
+designer	nha thiet ke
+personnel	nhan vien
+shape	hinh dang
+educator	nha giao duc
+relative	quan he
+immigration	nhap cu
+belt	day nit
+teaspoon	muong ca phe
+birthday	ngay sinh nhat
+implication	ham y
+perfectly	hoan hao
+coast	bo bien
+supporter	nguoi ung ho
+accompany	dong hanh
+silver	mau bac
+teenager	thanh thieu nien
+recognition	su cong nhan
+retirement	su nghi huu
+flag	la co
+recovery	su hoi phuc
+whisper	thi tham
+watch	dong ho
+gentleman	quy ong
+corn	Ngo
+moon	mat trang
+inner	ben trong
+junior	tre em
+rather	hon la
+throat	hong
+salary	luong
+swing	lung lay
+observer	nguoi quan sat
+due	qua han
+straight	dai
+publication	su xuat ban
+pretty	dep
+crop	trong trot
+dig	dao
+strike	danh dap
+permanent	dai han
+plant	thuc vat
+phenomenon	hien tuong
+anxiety	su lo ngai
+unlike	khong giong
+wet	bi uot
+literally	theo dung nghia den
+resist	khang cu
+convention	quy uoc
+embrace	om
+supply	cung cap
+assist	ho tro
+exhibition	trien lam
+construct	xay dung
+viewer	nguoi xem
+pan	chao
+consultant	tu van
+soon	Som
+line	hang
+administrator	nguoi quan ly
+date	ngay
+occasionally	thinh thoang
+mayor	thi truong
+consideration	Su xem xet
+CEO	CEO
+secure	chac chan
+pink	Hong
+smoke	Khoi
+estimate	uoc tinh
+buck	Cai xo
+historic	mang tinh lich su
+poem	bai tho
+grandmother	ba ngoai
+bind	troi buoc
+fifth	thu nam
+constantly	lien tuc
+enterprise	xi nghiep
+favor	ung ho
+testing	thu nghiem
+stomach	Da day
+apparent	ro rang
+weigh	can
+install	Tai ve
+sensitive	nhay cam
+suggestion	goi y
+mail	thu
+recipe	cong thuc
+reasonable	hop ly
+preparation	su chuan bi
+wooden	bang go
+elementary	so cap
+concert	buoi hoa nhac
+aggressive	hung du
+false	sai
+intention	chu dich
+channel	kenh truyen hinh
+extreme	vo cung
+tube	ong
+drawing	dang ve
+protein	chat dam
+quit	tu bo
+absence	vang mat
+roll	cuon
+Latin	Latin
+rapidly	lien tuc
+jail	nha tu
+comment	binh luan
+diversity	da dang
+honest	that tha
+Palestinian	Nguoi Palestine
+pace	toc do
+employment	thue nguoi lam
+speaker	loa
+impression	an tuong
+essay	bai van
+respondent	nguoi tra loi
+giant	nguoi khong lo
+cake	banh
+historian	nha su hoc
+negotiate	thuong luong
+restore	khoi phuc
+substantial	dang ke
+pop	nhac pop
+particular	cu the
+specialist	chuyen gia
+origin	nguon goc
+approval	phe duyet
+mine	cua toi
+quietly	lang le
+advise	khuyen nhu
+conventional	thong thuong
+drop	lam roi
+count	dem
+depth	chieu sau
+wealth	su giau co
+disability	khuyet tat
+shell	vo boc
+general	chung
+criticize	chi trich
+fast	Nhanh
+professional	chuyen nghiep
+effectively	co hieu qua
+biological	sinh hoc
+pack	dong goi
+onion	cu hanh
+deputy	pho
+flat	bang phang
+brand	nhan hieu
+assure	cam doan
+mad	dien
+award	phan thuong
+criteria	tieu chuan
+dealer	nguoi buon ban
+via	thong qua
+alternative	thay the
+utility	tinh thiet thuc
+precisely	dung
+arise	nay sinh
+armed	vu trang
+nevertheless	Tuy nhien
+highway	Xa lo
+clinical	lam sang
+routine	lich trinh
+schedule	lich trinh
+wage	tien cong
+normally	thong thuong
+phrase	cum tu
+ingredient	nguyen lieu
+stake	co phan
+Muslim	Hoi
+dream	mo uoc
+fiber	chat xo
+activist	nha hoat dong
+Islamic	Hoi giao
+snap	bung tay
+terrorism	khung bo
+refugee	nguoi ti nan
+incorporate	ket hop
+hip	hong
+ultimate	toi thuong
+switch	cong tac
+corporation	tap doan
+valuable	quy gia
+assumption	gia thiet
+gear	Hop so
+graduate	tot nghiep
+barrier	rao chan
+minor	dien vien phu
+provision	dieu khoan
+killer	sat thu
+assign	giao pho
+gang	bang nhom
+developing	dang phat trien
+classic	co dien
+chemical	hoa hoc
+wave	song
+label	nhan mac
+teen	thieu nien
+index	muc luc
+vacation	ki nghi
+advocate	bien ho
+draft	du thao
+extraordinary	dac biet
+heaven	thien duong
+rough	go ghe
+yell	la len
+pregnant	co thai
+distant	xa xoi
+drama	kich
+satellite	ve tinh
+personally	ca nhan
+wonder	ngac nhien
+clock	cai dong ho
+chocolate	so co la
+Italian	nguoi Y
+Canadian	nguoi Canada
+ceiling	tran nha
+sweep	quet
+advertising	quang cao
+universal	pho cap
+spin	quay
+house	nha o
+button	cai nut
+bell	chuong
+rank	thu hang
+darkness	bong toi
+ahead	phia truoc
+clothing	quan ao
+super	sieu
+yield	nang suat
+fence	rao chan
+portrait	Chan dung
+paint	son
+survival	Su song con
+roughly	dai khai
+lawsuit	kien cao
+bottom	day
+testimony	loi khai
+bunch	bo lai
+beat	danh dap
+wind	gio
+found	tim
+burden	ganh nang
+react	phan ung
+chamber	buong
+furniture	do noi that
+cooperation	su hop tac
+string	soi day
+ceremony	Le
+communicate	giao tiep
+taste	nem thu
+cheek	ma
+lost	mat di
+profile	Ho so
+mechanism	co che
+disagree	khong dong y
+like	giong
+penalty	hinh phat
+match	cuoc thi dau
+ie	I E
+advance	nang cao
+resort	nghi duong
+destruction	su pha huy
+bear	con gau
+unlikely	khong chac
+tissue	khan giay
+constitutional	hop hien
+pant	quan
+stranger	nguoi la
+infection	su nhiem trung
+cabinet	buong
+broken	bi hong
+apple	tao
+electric	dien
+proceed	tiep tuc
+track	theo doi
+bet	ca cuoc
+literary	van hoc
+virus	vi-rut
+stupid	ngu
+dispute	tranh chap
+fortune	van may
+strategic	chien luoc
+assistant	tro ly
+overcome	vuot qua
+remarkable	dang chu y
+occupy	chiem
+statistics	so lieu thong ke
+shopping	mua do
+cousin	anh chi em ho
+encounter	bat gap
+wipe	lau di
+initially	ban dau
+blind	mu
+white	trang
+port	Hai cang
+honor	ton kinh
+electricity	dien luc
+genetic	di truyen
+adviser	co van
+pay	tra tien
+spokesman	nguoi phat ngon
+retain	giu lai
+latter	sau nay
+incentive	khuyen khich
+slave	no le
+chemical	hoa hoc
+translate	dich
+accurate	chinh xac
+whereas	nhung trai lai
+terror	su kinh hoang
+though	Tuy nhien
+expansion	su banh truong
+elite	Thuong luu
+Olympic	Olympic
+dirt	chat ban
+odd	so le
+rice	com
+bullet	dan
+tight	chat
+Bible	Kinh thanh
+chart	do thi
+solar	he mat troi
+decline	tu choi
+conservative	bao thu
+process	qua trinh
+square	Quang truong
+stick	dinh vao
+concentration	nong do
+complicated	phuc tap
+gently	diu dang
+champion	quan quan
+scenario	kich ban
+telescope	kinh vien vong
+reflection	su phan xa
+revolution	Cuoc cach mang
+strip	dai
+interpret	thong dich
+friendly	than thien
+tournament	giai dau
+fiction	vien tuong
+detect	phat hien
+balance	THANG BANG
+likely	rat co the
+tremendous	to lon
+lifetime	ca doi
+recommendation	su gioi thieu
+flow	luu luong
+senator	thuong nghi si
+market	thi truong
+hunting	san ban
+salad	rau xa lach
+guarantee	Bao hanh
+innocent	vo toi
+boundary	ranh gioi
+pause	tam ngung
+remote	Xa xoi
+satisfaction	su thoa man
+journal	tap chi
+bench	Bang ghe
+lover	nguoi yeu
+raw	tho
+awareness	nhan thuc
+surprising	that ngac nhien
+withdraw	rut
+general	chung
+deck	boong tau
+similarly	tuong tu
+newly	moi
+pole	cay sao
+testify	lam chung
+mode	cach thuc
+dialogue	hoi thoai
+imply	bao ham, ngu y
+naturally	mot cach tu nhien
+mutual	qua lai
+founder	nguoi sang lap
+top	dung dau
+advanced	nang cao
+pride	long tu trong
+dismiss	bo qua
+aircraft	phi co
+delivery	van chuyen
+mainly	chu yeu
+bake	nuong
+freeze	Dong cung
+platform	nen tang
+finance	tai chinh
+sink	bon rua
+attractive	hap dan
+respect	kinh trong
+diverse	phong phu
+relevant	lien quan, thich hop
+ideal	ly tuong
+joy	vui suong
+worth	dang gia
+regularly	thuong xuyen
+working	dang lam viec
+singer	ca si
+evolve	tien hoa
+shooting	chup
+partly	tung phan
+unknown	khong xac dinh
+assistant	tro ly
+offense	xuc pham
+counter	phan doi
+DNA	DNA
+smell	danh hoi
+potentially	co tiem nang
+transfer	chuyen khoan
+thirty	ba muoi
+justify	bien minh
+protest	cuoc bieu tinh
+crash	tai nan
+craft	thu cong
+treaty	hiep uoc
+terrorist	khung bo
+insight	cai nhin thau suot
+possess	so huu
+politically	ve mat chinh tri
+tap	võ nhẹ
+lie	noi doi
+extensive	sau rong
+episode	tap phim
+double	kep
+swim	boi
+tire	lop xe
+fault	loi
+loose	long leo
+free	tu do
+shortly	trong thoi gian ngan
+originally	ban dau
+considerable	dang ke
+prior	truoc
+intellectual	tri thuc
+mix	pha tron
+assault	hanh hung
+relax	thu gian
+stair	cau thang
+adventure	cuoc phieu luu
+external	ben ngoai
+proof	bang chung
+confident	tin chac
+headquarters	tru so chinh
+sudden	dot nhien
+dirty	ban thiu
+violation	su vi pham
+tongue	luoi
+license	giay phep
+hold	to chuc
+shelter	an nup
+rub	cha xat
+controversy	tranh cai
+entrance	cong vao
+favorite	yeu thich
+practice	thuc tien
+properly	dung
+fade	phai mau
+defensive	phong ngu
+tragedy	bi kich
+net	mang luoi
+characterize	dac diem
+funeral	tang le
+profession	nghe nghiep
+alter	thay doi
+spot	diem
+constitute	cau tao
+establishment	thanh lap
+squeeze	vat kiet
+imagination	tri tuong tuong
+target	Muc tieu
+mask	mat na
+convert	doi
+comprehensive	toan dien
+prominent	noi bat
+presentation	bai thuyet trinh
+regardless	bat ke
+easy	de
+load	trong tai
+stable	on dinh
+introduction	Gioi thieu
+appeal	bat mat
+pretend	gia vo
+not	khong phai
+elderly	nguoi gia
+representation	dai dien
+deer	con nai
+split	tach ra
+violate	xam pham
+partnership	quan he doi tac
+pollution	su o nhiem
+emission	khi thai
+steady	vung chac
+vital	thiet yeu
+neither	cung khong
+fate	dinh menh
+earnings	thu nhap
+oven	lo vi song
+distinction	su phan biet
+segment	bo phan
+nowhere	hu khong
+poet	nha tho
+mere	chi la
+exciting	kich thich
+variation	bien the
+comfort	an ui
+radical	can ban
+stress	cang thang
+adapt	phong theo
+Irish	Nguoi Ailen
+honey	em yeu
+correspondent	phong vien
+pale	tai nhot
+musician	nhac si
+significance	y nghia
+load	trong tai
+round	vong
+vessel	tau
+storage	kho
+flee	chay tron
+mm-hmm	mm-hmm
+leather	da
+distribute	phan phat
+evolution	su phat trien
+ill	toi se
+tribe	bo lac
+shelf	cai ke
+can	co the
+grandfather	ong noi
+lawn	bai co
+buyer	nguoi mua
+dining	an uong
+wisdom	su khon ngoan
+council	hoi dong
+vulnerable	de bi ton thuong
+instance	vi du
+garlic	toi
+capability	kha nang
+poetry	tho
+celebrity	Danh nhan
+gradually	dan dan
+stability	su on dinh
+doubt	nghi ngo
+fantasy	tuong tuong
+scared	so hai
+guide	huong dan
+plot	kich ban
+framework	khuon kho
+gesture	cu chi
+depending	tuy
+ongoing	dang dien ra
+psychology	tam ly
+since	tu
+counselor	co van
+witness	nhan chung
+chapter	chuong
+fellow	dong bon
+divorce	ly hon
+owe	no
+pipe	duong ong
+athletic	Khoe manh
+slight	manh de
+math	mon Toan
+shade	bong ram
+tail	cai duoi
+sustain	duy tri
+mount	gan ket
+obligation	nghia vu
+angle	goc
+palm	long ban tay
+differ	khac nhau
+custom	phong tuc
+store	cua hang
+economist	nha kinh te hoc
+fifteen	muoi lam
+soup	Sup
+celebration	le ky niem
+efficient	Co hieu qua
+damage	chan thuong
+composition	thanh phan
+satisfy	thoa man
+pile	Dong coc
+briefly	Tom tat
+carbon	carbon
+closer	gan hon
+consume	tieu thu
+scheme	co che
+crack	nut
+frequency	tan so
+tobacco	thuoc la
+survivor	nguoi song sot
+besides	ben canh do
+in	Trong
+psychologist	nha tam ly hoc
+wealthy	giau co
+galaxy	ngan ha
+given	duoc
+fund	quy
+ski	truot tuyet
+limitation	su han che
+OK	DUOC ROI
+trace	dau vet
+appointment	cuoc hen
+preference	su ua thich
+meter	Met
+explosion	no
+arrest	bat giu
+publicly	cong khai
+incredible	dang kinh ngac
+fighter	dau si
+rapid	nhanh
+admission	nhan vao
+hunter	tho san
+educate	giao duc
+painful	dau don
+friendship	huu nghi
+aide	phu ta
+infant	tre so sinh
+calculate	tinh toan
+fifty	nam muoi
+rid	thoat khoi
+porch	hien nha
+tendency	khuynh huong
+uniform	dong phuc
+formation	su hinh thanh
+scholarship	hoc bong
+reservation	Du phong
+efficiency	hieu qua
+waste	chat thai
+qualify	du tieu chuan
+mall	trung tam mua sam
+derive	lay duoc
+scandal	vu be boi
+PC	may tinh
+helpful	Huu ich
+impress	gay an tuong
+heel	got chan
+resemble	giong
+privacy	su rieng tu
+fabric	vai voc
+surprise	bat ngo
+contest	Cuoc thi
+proportion	ty le
+guideline	huong dan
+rifle	sung truong
+maintenance	Su bao tri
+conviction	long tin chac, su ket an, phan quyet
+trick	bi quyet, Thuat, meo
+organic	huu co
+tent	Cai leu
+examination	kiem tra
+publisher	nha xuat ban
+strengthen	cung co
+French	nguoi Phap
+proposed	de xuat
+myth	huyen thoai
+sophisticated	tinh vi
+cow	con bo
+etc	van van
+standing	dung
+asleep	ngu
+tennis	quan vot
+nerve	than kinh
+barrel	thung
+bombing	nem bom
+membership	thanh vien
+ratio	ti le
+menu	thuc don
+purchase	mua, tua vao, bam vao
+controversial	gay tranh cai
+desperate	tuyet vong
+rate	ty le
+lifestyle	cach song
+humor	hai huoc
+loud	on ao
+glove	gang tay
+suspect	nghi ngo
+sufficient	hop ly
+narrative	chuyen ke
+photographer	nhiep anh gia
+helicopter	truc thang
+Catholic	Cong giao
+modest	khiem ton
+provider	cac nha cung cap
+delay	su cham tre
+agricultural	nong nghiep
+explode	phat no
+stroke	Cu danh
+scope	pham vi
+punishment	su trung phat
+handful	mot nam day tay
+badly	te
+horizon	chan troi
+curious	To mo
+downtown	trung tam thanh pho
+girlfriend	ban gai
+prompt	loi nhac
+request	loi yeu cau
+cholesterol	cholesterol
+absorb	hap thu
+adjustment	su dieu chinh
+taxpayer	nguoi dong thue
+eager	hang hai
+principal	hieu truong
+detailed	chi tiet
+motivation	dong luc
+assignment	phan cong
+restriction	su han che
+across	bang qua
+Palestinian	Nguoi Palestine
+laboratory	phong thi nghiem
+workshop	xuong
+differently	khac nhau
+auto	Tụ dọng
+romantic	lang man
+cotton	bong
+motor	dong co
+sue	kien
+flavor	huong vi
+overlook	bo qua
+float	troi noi
+undergo	trai qua
+sequence	su phoi hop
+demonstration	cuoc bieu tinh
+jet	may bay phan luc
+orange	trai cam
+consumption	su tieu thu
+assert	khang dinh
+blade	luoi
+temporary	tam thoi
+medication	thuoc
+print	in
+cabin	cabin
+bite	can
+relative	quan he
+edition	phien ban
+valley	thung lung
+yours	cua ban
+pitch	san bong da
+pine	cay thong
+brilliant	ruc ro
+versus	dau voi
+manufacturing	che tao
+risk	rui ro
+Christian	Thien chua giao
+complex	to hop
+absolute	tuyet doi
+chef	bep truong
+discrimination	phan biet
+offensive	phan cam
+German	tieng Duc
+suit	bo do
+boom	bung no
+register	Dang ky
+appoint	bo nhiem
+heritage	gia tai
+God	Chua
+terrorist	khung bo
+dominant	co uu the
+successfully	thanh cong
+shit	Chet tiet
+lemon	Chanh
+hungry	doi bung
+sense	y nghia
+dry	kho
+wander	di lang thang
+submit	Gui di
+economics	Kinh te hoc
+naked	khoa than
+anticipate	doan truoc
+nut	hat
+legacy	di san
+extension	su mo rong
+shrug	nhun vai
+fly	ruoi
+battery	pin
+arrival	den
+legitimate	hop phap
+orientation	dinh huong
+inflation	lam phat
+cope	duong dau
+flame	ngon lua
+cluster	cum
+host	chu nha
+wound	vet thuong
+dependent	su phu thuoc
+shower	voi hoa sen
+institutional	the che
+depict	mieu ta
+operating	dieu hanh
+flesh	thit
+garage	ga-ra
+operator	nha dieu hanh
+instructor	nguoi huong dan
+collapse	sup do
+borrow	vay
+furthermore	hon nua
+comedy	hai kich
+mortgage	the chap
+sanction	phe chuan
+civilian	dan thuong
+twelve	muoi hai
+weekly	hang tuan
+habitat	moi truong song
+grain	ngu coc
+brush	chai
+consciousness	y thuc
+devote	cong hien
+crack	nut
+measurement	do dac
+province	dia ban tinh
+ease	xoa diu
+seize	nam bat
+ethics	dao duc hoc
+nomination	su de cu
+permission	su cho phep
+wise	khon ngoan
+actress	nu dien vien
+summit	hoi nghi thuong dinh
+acid	axit
+odds	ty le cuoc
+gifted	nang khieu
+frustration	that vong
+medium	vua phai
+function	ham so
+physically	the chat
+grant	ban cho
+distinguish	phan biet
+shore	bo bien
+repeatedly	nhieu lan
+lung	phoi
+firm	chac chan
+running	dang chay
+correct	Chinh xac
+distinct	rieng biet
+artistic	thuoc ve nghe thuat
+discourse	dam luan
+basket	ro
+ah	Ah
+fighting	Co len
+impressive	an tuong
+competitor	doi thu
+ugly	xau xi
+worried	lo lang
+portray	ve chan dung
+powder	bot
+ghost	con ma
+persuade	truy van
+moderate	vua phai
+subsequent	tiep theo
+continued	tiep tuc
+cookie	banh quy
+carrier	van chuyen
+cooking	nau nuong
+frequent	thuong xuyen
+ban	lenh cam
+swing	lung lay
+orange	trai cam
+awful	kinh khung
+admire	nguong mo
+pet	vat cung
+miracle	phep mau
+exceed	qua
+rhythm	nhip
+widespread	pho bien rong rai
+killing	giet choc
+lovely	dang yeu
+sin	toi
+charity	tu thien
+script	script
+tactic	chien thuat
+identification	nhan biet
+transformation	su bien doi
+everyday	Hang ngay
+headline	tieu de
+crash	tai nan
+venture	lien doanh
+invasion	cuoc xam lang
+military	quan doi
+nonetheless	du sao thi
+adequate	du
+piano	dan piano
+grocery	cua hang tap hoa
+intensity	cuong do
+exhibit	trien lam
+high	cao
+blanket	cai men
+margin	le
+principal	hieu truong
+quarterback	tien ve
+mouse	con chuot
+rope	day
+concrete	be tong
+prescription	don thuoc
+African-American	Nguoi My goc Phi
+chase	san bat
+document	tai lieu
+brick	gach
+recruit	tuyen dung
+patch	va
+consensus	doan ket
+horror	rung ron
+recording	ghi am
+changing	thay doi
+painter	hoa si
+colonial	thuoc dia
+pie	banh
+sake	loi ich
+gaze	cai nhin
+courage	long can dam
+pregnancy	thai ky
+swear	the
+defeat	danh bai
+clue	manh moi
+reinforce	cung co
+win	thang loi
+confusion	su hoang mang
+slice	lat cat
+occupation	nghe nghiep
+dear	kinh thua
+coal	than da
+sacred	Linh thieng
+criminal	toi pham
+formula	cong thuc
+cognitive	nhan thuc
+collective	tap the
+exact	chinh xac
+uncle	Chu
+square	Quang truong
+captain	doi truong
+sigh	tho dai
+attribute	thuoc tinh
+dare	dam
+okay	Duoc chu
+homeless	Vo gia cu
+cool	mat me
+gallery	phong trung bay
+soccer	bong da
+defendant	bi cao
+tunnel	duong ham
+fitness	su khoe khoan
+lap	long
+grave	phan mo
+toe	ngon chan
+container	thung dung hang
+virtue	Duc hanh
+abroad	nuoc ngoai
+architect	kien truc su
+dramatically	dang ke
+makeup	trang diem
+inquiry	cuoc dieu tra
+rose	Hoa hong
+surprisingly	that ngac nhien
+highlight	Diem noi bat
+decrease	giam bot
+indication	su chi dan
+rail	duong sat
+anniversary	dip ki niem
+couch	di vang
+alliance	lien minh
+hypothesis	gia thuyet
+boyfriend	ban trai
+compose	soan, bien soan
+peer	ngang nhau
+mess	su lon xon
+rank	thu hang
+legend	truyen thuyet
+regulate	dieu tiet
+adolescent	thanh nien
+shine	chieu sang
+norm	dinh muc
+upset	kho chiu
+remark	nhan xet
+resign	tu chuc
+reward	giai thuong
+gentle	diu dang
+related	co lien quan
+organ	dan organ
+lightly	nhe nhang
+concerning	lien quan den
+invent	phat minh
+laughter	tieng cuoi
+fit	Phu hop
+northwest	Tay Bac
+counseling	tu van
+tight	chat
+receiver	nguoi nhan
+ritual	nghi thuc
+insect	con trung
+interrupt	ngat
+salmon	ca hoi
+favor	ung ho
+trading	thuong mai
+concern	ban tam
+magic	ma thuat
+superior	cap tren
+combat	chien dau
+stem	than cay
+surgeon	bac si phau thuat
+acceptable	co the chap nhan duoc
+physics	vat ly hoc
+rape	hiep dam
+counsel	co van
+brush	chai
+jeans	Quan jean
+hunt	san ban
+continuous	tiep dien
+log	khuc go
+echo	tieng vang
+pill	Vien thuoc
+excited	bi kich thich
+sculpture	dieu khac
+compound	hop chat
+integrate	tich hop
+flour	bot
+bitter	vi dang
+bare	de tran
+slope	doc
+rent	thue
+presidency	nhiem ky tong thong
+serving	phuc vu
+subtle	te nhi
+greatly	rat nhieu
+bishop	giam muc
+drinking	uong ruou
+delay	su cham tre
+cry	khoc
+acceptance	chap thuan
+collapse	sup do
+shop	cua tiem
+pump	bom
+candy	cuc keo
+evil	doc ac
+final	cuoi cung
+finance	tai chinh
+pleased	vua long
+medal	huy chuong
+beg	an xin
+sponsor	nha tai tro
+ethical	co dao duc
+secondary	so trung
+slam	sap
+export	xuat khau
+experimental	thuc nghiem
+melt	tan chay
+midnight	nua dem
+net	mang luoi
+curve	duong cong
+integrity	su toan ven
+entitle	cho phep
+evident	hien nhien
+logic	Hop ly
+essence	Ban chat
+park	cong vien
+exclude	loai tru
+harsh	tho rap
+closet	kho de do
+suburban	ngoai o
+greet	chao
+favor	ung ho
+interior	Noi dia
+corridor	hanh lang
+murder	giet nguoi
+retail	ban le
+pitcher	Cai binh
+march	thang Ba
+snake	con ran
+pitch	san bong da
+excuse	thu loi
+cross	di qua
+weakness	yeu duoi
+pig	lon
+cold	lanh
+classical	co dien
+estimated	uoc luong
+T-shirt	Ao thun
+online	Truc tuyen
+unemployment	nan that nghiep
+civilization	nen van minh
+fold	nep gap
+patient	benh nhan
+pop	nhac pop
+daily	hang ngay
+reverse	dao nguoc
+missing	con thieu
+correlation	tuong quan
+humanity	nhan loai
+flash	toc bien
+developer	nguoi phat trien
+reliable	dang tin cay
+excitement	phan khich
+beef	thit bo
+Islam	dao Hoi
+Roman	Roman
+stretch	cang ra
+architecture	nganh kien ​​​​truc
+occasional	thinh thoang
+administrative	hanh chinh
+elbow	khuyu tay
+deadly	chet nguoi
+Muslim	Hoi
+Hispanic	Nguoi Tay Ban Nha
+allegation	su cao buoc
+tip	tien boa
+confuse	nham lan
+airplane	May bay
+monthly	hang thang
+duck	Vit
+dose	lieu luong
+Korean	Han Quoc
+plead	bien ho
+initiate	khoi xuong
+lecture	bai hoc
+van	xe van
+sixth	thu sau
+bay	vinh
+mainstream	Xu huong
+suburb	ngoai o
+sandwich	banh mi sandwich
+unlike	khong giong
+trunk	Than cay
+rumor	tin don
+implementation	thuc hien
+swallow	nuot
+motivate	dong vien
+render	ket xuat
+longtime	thoi gian dai
+trap	cam bay
+restrict	han che
+cloth	vai
+seemingly	co ve
+legislative	lap phap
+effectiveness	hieu qua
+enforce	thi hanh
+lens	ong kinh
+reach	voi toi
+inspector	thanh tra
+lend	cho vay
+plain	don gian
+fraud	gian lan
+companion	dong hanh
+contend	tranh gianh
+nail	mong tay
+array	mang
+strict	nghiem khac
+assemble	tap hop
+frankly	thang than
+rat	con chuot
+burst	no
+hallway	hanh lang
+cave	hang
+inevitable	khong the tranh khoi
+southwest	tay nam
+monster	quai vat
+speed	toc do, van toc
+protest	cuoc bieu tinh
+unexpected	khong ngo toi
+obstacle	tro ngai
+facilitate	tao dieu kien
+encounter	bat gap
+rip	Xe toac
+herb	thao moc
+overwhelming	choang ngop
+integration	hoi nhap
+crystal	pha le
+recession	suy thoai
+wish	dieu uoc
+top	dung dau
+written	bang van ban
+motive	dong co
+label	nhan mac
+flood	lut
+pen	cai but
+ownership	quyen so huu
+nightmare	con ac mong
+notice	de y
+inspection	dieu tra
+supervisor	nguoi giam sat
+consult	tham khao y kien
+arena	dau truong
+laugh	cuoi
+diagnosis	chan doan
+possession	chiem huu
+forgive	tha loi
+warm	am ap
+consistently	nhat quan
+basement	tang ham
+project	du an
+drift	troi dat
+drain	lam kho han
+last	Cuoi cung
+prosecution	truy to
+maximum	toi da
+announcement	su thong bao
+warrior	chien binh
+prediction	su du doan
+bacteria	vi khuan
+questionnaire	bang cau hoi
+mud	bun
+infrastructure	co so ha tang
+hurry	voi vang
+privilege	dac an
+temple	ngoi den
+medium	vua phai
+outdoor	ngoai troi
+suck	hut
+and/or	va / hoac
+broadcast	phat tin
+re	lai
+leap	nhay vot
+random	ngau nhien
+past	vua qua
+wrist	co tay
+curtain	tam man
+monitor	man hinh
+pond	ao
+domain	mien
+guilt	toi loi
+cattle	gia suc
+subject	mon hoc
+walking	di dao
+playoff	playoff
+minimum	toi thieu
+fiscal	ngan sach
+skirt	vay
+dump	bai rac
+hence	ke tu day
+database	co so du lieu
+uncomfortable	kho chiu
+aim	muc dich
+execute	hanh hinh
+limb	chan tay
+ideology	he tu tuong
+average	trung binh
+welcome	hoan nghenh
+tune	dieu chinh
+continuing	tiep tuc
+hay	co kho
+railroad	duong sat
+endure	chiu dung
+radiation	su buc xa
+horn	sung
+chronic	man tinh
+peaceful	binh yen
+innovation	su doi moi
+strain	su cang thang
+guitar	dan ghi ta
+replacement	su thay the
+behave	xu su
+administer	quan ly
+simultaneously	dong thoi
+dancer	vu cong
+amendment	su sua doi
+guard	bảo vẹ
+pad	tap giay
+transmission	truyen tai
+await	cho doi
+retired	nghi huu
+trigger	Kich hoat
+spill	tran
+grateful	biet on
+grace	duyen dang
+virtual	ao
+response	phan ung
+colony	thuoc dia
+adoption	nhan con nuoi
+slide	truot
+indigenous	ban dia
+closed	dong cua
+convict	ket toi
+civilian	dan thuong
+towel	cai khan lau
+modify	bien doi
+particle	hat
+award	phan thuong
+glance	nhin luot qua
+prize	phan thuong
+landing	do bo
+conduct	hanh kiem
+blue	mau xanh da troi
+boost	tang
+bat	con doi
+alarm	bao thuc
+festival	ngay hoi
+grip	nam chat
+weird	ky di
+undermine	huy hoai
+freshman	sinh vien nam nhat
+sweat	mo hoi
+outer	ben ngoai
+European	Chau au
+drunk	say ruou
+survey	su khao sat
+research	nghien cuu
+separation	tach biet
+traditionally	theo truyen thong
+stuff	do dac
+govern	quan ly
+southeast	Dong Nam
+intelligent	thong minh
+wherever	bat cu noi nao
+ballot	phieu
+rhetoric	Hung bien
+convinced	bi thuyet phuc
+driving	dieu khien
+vitamin	vitamin
+enthusiasm	hang hai
+accommodate	cung cap
+praise	khen
+injure	bi thuong
+wilderness	hoang vu
+nearby	gan day
+endless	bat tan
+mandate	thi hanh
+pause	tam ngung
+excuse	thu loi
+respectively	tuong ung
+uncertainty	tinh khong chac chan
+chaos	su hon loan
+short	ngan
+mechanical	co khi
+canvas	Tranh son dau
+forty	bon muoi
+matter	van de
+lobby	sanh doi
+profound	tham thuy
+format	dinh dang
+trait	dac diem
+currency	tien te
+turkey	Ga tay
+reserve	du tru
+beam	chum tia
+abuse	lam dung
+astronomer	nha thien van hoc
+corruption	tham nhung
+contractor	Nha thau
+apologize	xin loi
+doctrine	hoc thuyet
+genuine	thanh that
+thumb	ngon tay cai
+unity	doan ket
+compromise	su thoa hiep
+horrible	te hai
+behavioral	hanh vi
+exclusive	loai tru
+scatter	tieu tan
+commonly	thong thuong
+convey	chuyen cho
+rush	cay bac
+twist	xoan
+complexity	phuc tap
+fork	cai nia
+disk	dia
+relieve	giai toa
+suspicion	su nghi ngo
+lock	Khoa
+finish	ket thuc
+health-care	cham soc suc khoe
+health-care	cham soc suc khoe
+health-care	cham soc suc khoe
+health-care	cham soc suc khoe
+residence	noi cu tru
+shame	xau ho
+meaningful	co y nghia
+sidewalk	duong di bo
+Olympics	The van hoi
+technological	cong nghe
+signature	Chu ky
+pleasant	hai long
+wow	o
+suspend	dinh chi
+rebel	noi loan
+frozen	Dong cung
+desire	khao khat
+spouse	vo chong
+fluid	dich
+pension	luong huu
+resume	so yeu ly lich
+theoretical	ly thuyet
+sodium	natri
+blow	thoi
+promotion	khuyen mai
+delicate	thanh tu
+forehead	tran
+rebuild	xay dung lai
+bounce	nay
+electrical	dien
+hook	cai moc
+detective	tham tu
+traveler	lu khach
+click	nhap chuot
+compensation	den bu
+signal	dau hieu
+exit	loi ra
+attraction	suc hut
+dedicate	cong hien
+altogether	hoan toan
+pickup	don
+carve	khac cham
+needle	cay kim
+belly	bung
+ship	van chuyen
+scare	su so hai
+portfolio	danh muc dau tu
+shuttle	dua don
+invisible	vo hinh
+timing	thoi gian
+engagement	hon uoc
+ankle	mat ca
+transaction	Giao dich
+rescue	giai thoat
+counterpart	doi tac
+historically	lich su
+firmly	chac chan
+mild	nhe
+rider	nguoi cuoi ngua
+doll	bup be
+noon	khong bat
+exhibit	trien lam
+amid	o giua
+identical	giong het nhau
+precise	tom luoc
+anxious	lo lang
+structural	cau truc
+residential	khu dan cu
+loud	on ao
+diagnose	chan doan
+carbohydrate	cacbohydrat
+liberty	su tu do
+poster	poster
+theology	than hoc
+nonprofit	to chuc phi loi nhuan
+crawl	bo
+oxygen	oxy
+handsome	dien trai
+magic	ma thuat
+sum	Tong
+provided	cung cap
+businessman	doanh nhan
+promising	hua hen
+conscious	biet ro
+determination	su quyet tam
+donor	nha tai tro
+hers	cua co ay
+pastor	muc su
+jazz	nhac jazz
+opera	opera
+Japanese	tieng Nhat
+bite	can
+frame	khung
+evil	doc ac
+acquisition	thu mua
+pit	ho
+hug	om
+wildlife	dong vat hoang da
+punish	trung phat
+giant	nguoi khong lo
+primary	so dang
+equity	von chu so huu
+wrong	Sai lam
+doorway	nguong cua
+departure	su khoi hanh
+elevator	thang may
+teenage	tuoi teen
+guidance	su huong dan
+happiness	niem hanh phuc
+statue	tuong
+pursuit	theo duoi
+repair	sua
+decent	tu te
+gym	phong the duc
+oral	mieng
+clerk	nhan vien ban hang
+Israeli	Nguoi Israel
+envelope	phong bi
+reporting	Bao cao
+destination	diem den
+fist	nam tay
+endorse	chung thuc
+exploration	tham do
+generous	rong luong
+bath	bon tam
+rescue	giai thoat
+thereby	bang cach ay
+overall	tong the
+indicator	chi bao
+sunlight	anh sang mat troi
+feedback	Phan hoi
+spectrum	quang pho
+purple	mau do tia
+laser	tia laze
+bold	in dam
+reluctant	luong lu
+starting	bat dau
+expertise	chuyen mon
+practically	thuc te
+program	chuong trinh
+picture	hinh anh
+tune	dieu chinh
+eating	An
+age	tuoi tac
+volunteer	Tinh nguyen vien
+hint	dau
+sharply	sac ben
+parade	cuoc dieu hanh
+advocate	bien ho
+realm	canh gioi
+ban	lenh cam
+strip	dai
+cancel	su huy bo
+blend	tron
+therapist	nha tri lieu
+slice	lat cat
+peel	boc
+pizza	pizza
+recipient	nguoi nhan
+hesitate	do du
+flip	lat
+accounting	ke toan
+debate	tranh luan
+bias	Thien kien
+huh	Huh
+metaphor	phep an du
+candle	nen
+handle	xu ly
+worry	lo
+judicial	tu phap
+entity	thuc the
+suffering	dau kho
+full-time	toan thoi gian
+feel	cam thay
+lamp	den ngu
+garbage	rac
+servant	nguoi hau
+addition	phep cong
+regulatory	quy dinh
+diplomatic	ngoai giao
+elegant	tao nha
+inside	noi bo
+reception	thu nhan
+vanish	tan bien
+automatically	tu dong
+chin	cai cam
+trail	duong mon
+necessity	su can thiet
+confess	xung
+racism	phan biet chung toc
+starter	nguoi bat dau
+interior	Noi dia
+banking	ngan hang
+casual	binh thuong
+gravity	Trong luc
+enroll	ghi danh
+diminish	giam bot
+prevention	Phong ngua
+Arab	A Rap
+value	gia tri
+minimize	giam thieu
+chop	chat
+performer	nguoi bieu dien
+intent	y dinh
+isolate	co lap
+pump	bom
+inventory	hang ton kho
+productive	nang suat
+assembly	hoi,, to hop
+civic	dan su
+silk	lua
+magnitude	kich co
+steep	doc dung
+hostage	con tin
+collector	nguoi suu tam
+popularity	pho bien
+kiss	hon
+alien	nguoi ngoai hanh tinh
+dynamic	nang dong
+scary	dang so
+equation	phuong trinh
+angel	Thien than
+switch	cong tac
+offering	chao ban
+rage	con thinh no
+photography	nhiep anh
+repair	sua
+toilet	phong ve sinh
+disappointed	that vong
+precious	qui
+prohibit	cam
+representative	Tieu bieu
+content	Noi dung
+realistic	thuc te
+Russian	tieng Nga
+hidden	an giau
+command	yeu cau
+tender	mem
+wake	thuc day
+gathering	thu thap
+outstanding	vuot troi
+stumble	tinh co gap
+lonely	co don
+automobile	o to
+artificial	nhan tao
+dawn	binh minh
+abstract	truu tuong
+descend	ha xuong
+silly	ngoc nghech
+hook	cai moc
+tide	thuy trieu
+shared	da chia se
+hopefully	hy vong
+readily	san sang
+cooperate	hop tac
+revolutionary	cach mang
+romance	lang man
+hardware	phan cung
+pillow	cai goi
+kit	bo dung cu
+cook	dau bep
+spread	Lan tran
+continent	luc dia
+seal	niem phong
+circuit	mach dien
+sink	bon rua
+ruling	cai tri
+shortage	su thieu
+annually	hang nam
+lately	gan day
+trap	cam bay
+scan	quet
+fool	lua gat
+deadline	duong gioi han
+rear	o phia sau
+processing	Che bien
+ranch	trang trai chan nuoi
+coastal	duyen hai
+undertake	dam nhan
+softly	nhe nhang
+reserve	du tru
+burning	dot chay
+verbal	bang loi noi
+tribal	bo lac
+ridiculous	lo bich
+automatic	tu dong
+diamond	kim cuong
+credibility	su uy tin
+import	nhap khau
+sexually	tinh duc
+spring	mua xuan
+way	duong
+divine	than thanh
+sentiment	tinh cam
+cart	xe day
+oversee	giam sat
+stem	than cay
+o'clock	gio
+elder	dan anh
+pro	chuyen nghiep
+inspiration	nguon cam hung
+Dutch	Tieng ha lan
+quantity	so luong
+trailer	gioi thieu tom tat
+mate	giao phoi
+Greek	nguoi Hy Lap
+genius	thien tai
+monument	dai ky niem
+bid	dau thau
+quest	nhiem vu
+sacrifice	hy sinh
+invitation	loi moi
+accuracy	su chinh xac
+juror	boi tham doan
+officially	chinh thuc
+broker	nguoi moi gioi
+treasure	Chau bau, dieu quy gia
+loyalty	long trung thanh
+credit	tin dung
+shock	soc
+talented	co tai
+gasoline	xang
+stiff	cung
+output	dau ra
+nominee	nguoi duoc de cu
+extended	mo rong
+please	lam on
+diabetes	Benh tieu duong
+slap	cai tat
+toxic	chat doc hai
+alleged	bi cao buoc
+jaw	quai ham
+grief	noi buon
+mysterious	bi an
+rocket	ten lua
+donate	quyen tang
+inmate	tu nhan
+tackle	giai quyet
+dynamics	dong luc hoc
+bow	cay cung
+ours	cua chung toi
+senior	nguoi lon tuoi
+dignity	pham gia
+carpet	tham
+parental	cha me
+bubble	bong bong
+heat	nhiet
+buddy	Ban be
+barn	nha kho
+sword	thanh kiem
+flash	toc bien
+seventh	thu bay
+glory	vinh quang
+tightly	chat che
+protective	bao ve
+tuck	gai
+drum	cai trong
+faint	mo nhat
+post	buu kien
+queen	nu hoang
+dilemma	tinh trang kho xu
+input	dau vao
+specialize	chuyen mon hoa
+northeast	dong bac
+shallow	Nong can
+liability	trach nhiem phap ly
+sail	cheo
+merchant	nguoi buon ban
+stadium	san van dong
+improved	cai thien
+bloody	dinh mau
+defeat	danh bai
+associated	co lien quan
+withdrawal	rut tien
+refrigerator	tu lanh
+nest	to
+near	o gan
+thoroughly	triet de
+lane	lan duong
+ancestor	to tien
+condemn	len an
+steam	hoi nuoc
+accent	giong
+escape	thoat khoi
+optimistic	lac quan
+unite	doan ket
+cage	cai long
+equip	trang bi
+shrimp	con tom
+homeland	que huong
+exchange	trao doi
+rack	gia do
+costume	trang phuc
+wolf	cho soi
+courtroom	phong xu an
+statute	quy che
+cartoon	hoat hinh
+besides	ben canh do
+productivity	nang suat
+grin	cuoi toe toet
+symbolic	tuong trung
+seal	niem phong
+bug	sau bo
+bless	ban phuoc
+aunt	di
+agriculture	nong nghiep
+rock	da
+hostile	thu dich
+root	nguon goc
+conceive	tuỏng tuọng
+combined	ket hop
+instantly	ngay lap tuc
+bankruptcy	pha san
+vaccine	vac xin
+bonus	thuong
+collaboration	su hop tac
+mixed	Tron
+opposed	phan doi
+orbit	quy dao
+grasp	su hieu biet
+patience	tinh kien nhan
+spite	cay cu
+tropical	nhiet doi
+voting	bieu quyet
+patrol	tuan tra
+willingness	su tu nguyen
+position	Chuc vu
+revelation	su tiet lo
+rent	thue
+calm	tran tinh
+jewelry	trang suc
+Cuban	Cuba
+haul	loi
+concede	cong nhan
+trace	dau vet
+wagon	toa xe
+afterward	ve sau
+spectacular	hung vi
+ruin	su do nat
+sheer	tuyet doi
+prior	truoc
+immune	mien dich
+reliability	do tin cay
+ass	mong
+alongside	cung voi
+bush	bui ram
+exotic	ky la
+fascinating	loi cuon
+secure	chac chan
+clip	kep
+thigh	dui
+bull	bo duc
+drawer	ngan keo
+regard	ve
+sheep	con cuu
+discourage	khong khuyen khich
+coordinator	nguoi dieu phoi
+ideological	y thuc he
+runner	nguoi chay
+secular	the tuc
+intimate	than mat
+empire	de che
+cab	taxi
+divorce	ly hon
+exam	thi
+documentary	phim tai lieu
+neutral	Trung tinh
+biology	sinh hoc
+flexible	Linh hoat
+progressive	cap tien
+web	web
+conspiracy	am muu
+catch	chup lay
+casualty	thuong vong
+republic	cong hoa
+execution	chap hanh
+terrific	khung khiep
+whale	ca voi
+functional	chuc nang
+star	ngoi sao
+draft	du thao
+instinct	ban nang
+teammate	dong doi
+aluminum	nhom
+whoever	bat cu ai
+ministry	Bo
+verdict	ban an
+instruct	day
+skull	dau lau
+self-esteem	long tu trong
+ease	xoa diu
+cooperative	hop tac xa
+manipulate	van dung
+bee	con ong
+practitioner	nguoi hanh nghe
+loop	vong
+edit	chinh sua
+whip	roi da
+puzzle	cau do
+mushroom	nam
+subsidy	tro cap
+boil	dun soi
+tragic	bi tham
+mathematics	toan hoc
+mechanic	cong nhan co khi
+jar	cai lo
+respect	kinh trong
+earthquake	dong dat
+pork	thit lon
+creativity	sang tao
+safely	an toan
+underlying	co ban
+dessert	mon trang mieng
+sympathy	su dong cam
+fisherman	ngu dan
+incredibly	vo cung
+isolation	su cach ly
+sock	bit tat
+near	o gan
+jump	nhay
+eleven	muoi mot
+sexy	sexy
+entrepreneur	doanh nhan
+syndrome	hoi chung
+bureau	van phong
+seat	ghe
+workplace	noi lam viec
+ambition	tham vong
+touchdown	cham xuong
+utilize	tan dung
+breeze	gio nhe
+costly	ton kem
+ambitious	day tham vong
+Christianity	Co doc giao
+presumably	co le
+influential	co anh huong
+translation	dich
+uncertain	khong chac chan
+dissolve	tan bien
+object	su vat
+statistical	thong ke
+gut	ruot
+metropolitan	do thi
+rolling	lan
+aesthetic	tham my
+spell	Danh van
+insert	chen
+booth	gian hang
+helmet	mu bao hiem
+waist	that lung
+expected	ky vong
+lion	su tu
+accomplishment	thanh qua
+royal	Hoang Gia
+panic	hoang loan
+cast	dan dien vien
+crush	Nguoi minh thich
+actively	tich cuc
+cliff	vach da
+minimal	toi thieu
+cord	day
+fortunately	that may man
+cocaine	cocaine
+illusion	ao giac
+anonymous	vo danh
+tolerate	tha thu
+appreciation	su danh gia
+commissioner	uy vien
+harm	lam hai
+flexibility	Uyen chuyen
+instructional	huong dan
+scramble	tranh gianh
+casino	song bac
+tumor	khoi u
+decorate	trang hoang
+sort	loai
+charge	sac pin
+pulse	xung
+equivalent	tuong duong
+fixed	da sua
+experienced	co kinh nghiem
+donation	Quyen gop
+diary	Nhat ky
+sibling	anh em ruot
+irony	tro treu
+spoon	thia
+midst	o giua
+alley	hem
+upset	kho chiu
+interact	tuong tac
+soap	xa bong
+cute	de thuong
+rival	doi thu
+short-term	thoi gian ngan
+punch	cu dam
+pin	ghim
+hockey	khuc con cau
+passing	di qua
+persist	kien tri
+supplier	nha cung cap
+known	da biet
+momentum	Quan tinh
+purse	cai vi
+shed	tup leu
+liquid	chat long
+icon	bieu tuong
+elephant	con voi
+consequently	hau qua la
+legislature	co quan lap phap
+associate	ket hop
+franchise	nhuong quyen thuong mai
+correctly	chinh xac
+mentally	tinh than
+foster	nuoi duong
+bicycle	Xe dap
+encouraging	khich le
+cheat	lua dao
+access	truy cap
+heal	chua tri
+fever	sot
+filter	loc
+rabbit	Con tho
+coin	dong tien
+exploit	khai thac
+accessible	co the truy cap
+organism	sinh vat
+sensation	cam giac
+partially	mot phan
+stay	o lai
+upstairs	tang tren
+dried	kho
+minimum	toi thieu
+pro	chuyen nghiep
+conservation	su bao ton
+shove	xo
+backyard	san sau
+charter	dieu le
+stove	bep
+consent	bang long
+comprise	bao gom
+reminder	loi nhac nho
+alike	nhu nhau
+placement	vi tri
+dough	bot
+grandchild	chau noi
+dam	cai dap
+reportedly	duoc bao cao
+well-known	noi tieng
+surrounding	bao quanh
+ecological	sinh thai
+outfit	trang phuc
+unprecedented	chua tung co
+columnist	chuyen muc
+workout	tap the duc
+preliminary	so bo
+patent	bang sang che
+shy	nhat
+quote	Trich dan
+trash	rac
+disabled	Vo hieu hoa
+gross	Tong
+damn	chet tiet
+hormone	hoc mon
+texture	ket cau
+counter	phan doi
+pencil	but chi
+associate	ket hop
+frontier	bien gioi
+spray	Xit nuoc
+bet	ca cuoc
+disclose	tiet lo
+custody	sụ coi giu
+banker	chu ngan hang
+beast	quai thu
+interfere	can thiep
+oak	cay soi
+case	truong hop
+eighth	thu tam
+notebook	so tay
+outline	de cuong
+gaze	cai nhin
+attendance	su tham du
+speculation	suy doan
+uncover	kham pha
+behalf	thay mat
+innovative	doi moi
+shark	ca map
+reward	giai thuong
+mill	coi xay
+installation	cai dat
+stimulate	kich thich
+tag	nhan
+vertical	theo chieu doc
+swimming	boi loi
+fleet	ham doi
+catalog	muc luc
+outsider	nguoi ngoai cuoc
+sacrifice	hy sinh
+desperately	tuyet vong
+stance	lap truong
+compel	ep buoc
+sensitivity	nhay cam
+someday	mot ngay nao do
+instant	lap tuc
+debut	ra mat
+proclaim	tuyen bo
+worldwide	tren toan the gioi
+hike	di lang thang
+required	yeu cau
+confrontation	doi dau
+colorful	Day mau sac
+ideal	ly tuong
+constitution	To chuc
+trainer	huan luyen vien
+Thanksgiving	Le ta on
+scent	huong thom
+stack	cay rom
+eyebrow	long may
+sack	bao
+cease	ngung
+inherit	thua ke
+tray	cai mam
+pioneer	nguoi di tien phong
+organizational	to chuc
+textbook	sach giao khoa
+uh	uh
+nasty	ban thiu
+shrink	co lai
+model	nguoi mau
+emerging	moi noi
+dot	dau cham
+wheat	lua mi
+fierce	hung du
+envision	hinh dung
+rational	hop ly
+kingdom	Vuong quoc
+aisle	loi di
+weaken	lam suy yeu
+protocol	giao thuc
+exclusively	duy nhat
+vocal	giong hat
+marketplace	thuong truong
+openly	cong khai
+unfair	khong cong bang
+terrain	dia hinh
+deploy	trien khai
+risky	rui ro
+pasta	my ong
+genre	the loai
+distract	danh lac huong
+merit	cong lao
+planner	nguoi lap ke hoach
+depressed	suy sup
+chunk	khuc go
+closest	gan nhat
+discount	mien giam
+no	khong
+ladder	thang
+jungle	rung nhiet doi
+migration	su di cu
+breathing	tho
+invade	xam luoc
+hurricane	bao
+retailer	nha ban le
+classify	phan loai
+wound	vet thuong
+coup	dao chinh
+aid	su giup do
+ambassador	dai su
+density	Ti trong
+supportive	ung ho
+curiosity	su to mo
+skip	nhay
+aggression	Hieu chien
+stimulus	kich thich
+journalism	bao chi
+robot	nguoi may
+flood	lut
+dip	nhung, dim
+likewise	tuong tu nhu vay
+informal	khong trang trong
+Persian	Tieng ba tu
+feather	long vu
+sphere	qua cau
+tighten	that chat
+boast	khoe khoang
+pat	vo nhe
+perceived	linh hoi
+sole	Duy Nhat
+publicity	cong khai
+major	chinh
+unfold	mo ra
+joke	cau noi dua
+well-being	phuc loi
+validity	hop le
+ecosystem	he sinh thai
+strictly	nghiem ngat
+partial	mot phan
+collar	co ao
+weed	can sa
+compliance	su tuan thu
+streak	vet
+supposedly	duoc cho la
+added	them
+builder	nguoi xay dung
+glimpse	nhin thoang qua
+premise	tien de
+specialty	chuyen mon
+deem	cho la
+artifact	tao tac
+sneak	danh len
+monkey	con khi
+mentor	nguoi huong dan
+two-thirds	hai phan ba
+listener	nguoi nghe
+lightning	tia chop
+legally	hop phap
+sleeve	tay ao
+disappointment	that vong
+disturb	quay ray
+rib	xuong suon
+excessive	qua dang
+high-tech	cong nghe cao
+debris	manh vun
+pile	Dong coc
+rod	gay
+logical	hop ly
+liberal	phong khoang
+ash	tro
+socially	ve mat xa hoi
+parish	giao xu
+slavery	che do no le
+blank	trong
+commodity	hang hoa
+cure	chua khoi
+mineral	khoang san
+hunger	nan doi
+dying	sap chet
+developmental	phat trien
+faster	nhanh hon
+spare	bo sung
+halfway	nua chung
+cure	chua khoi
+equality	binh dang
+cemetery	nghia trang
+harassment	quay roi
+deliberately	thong tha
+fame	danh tieng
+regret	hoi tiec
+striking	noi bat
+likelihood	kha nang xay ra
+carrot	cu ca rot
+atop	tren
+toll	thu phi
+rim	vanh
+embarrassed	lung tung
+fucking	chet tiet
+cling	bam vao
+isolated	bi co lap
+blink	chop mat
+suspicious	kha nghi
+wheelchair	xe lan
+squad	doi hinh
+eligible	dat chuan
+processor	bo xu ly
+plunge	lao xuong
+this	day
+sponsor	nha tai tro
+grin	cuoi toe toet
+color	mau sac
+demographic	nhan khau hoc
+rain	con mua
+chill	lam lanh
+refuge	noi an nau
+steer	chi dao
+legislator	nha lap phap
+rally	tap hop
+programming	lap trinh
+cheer	nang coc
+outlet	cho thoat
+intact	nguyen ven
+vendor	nguoi ban
+thrive	phat trien
+peanut	dau phung
+chew	nhai
+elaborate	phuc tap
+intellectual	tri thuc
+conception	quan niem
+auction	ban dau gia
+steak	mieng bo ham
+comply	tuan theo
+triumph	chien thang
+shareholder	co dong
+comparable	co the so sanh
+transport	van chuyen
+conscience	luong tam
+calculation	phep tinh
+considerably	dang ke
+interval	khoang thoi gian
+scratch	cao
+awake	thuc tinh
+jurisdiction	quyen han
+inevitably	tat yeu
+feminist	nu quyen
+constraint	han che
+emotionally	tinh cam
+expedition	cuoc tham hiem
+allegedly	bi cao buoc
+compromise	su thoa hiep
+strain	su cang thang
+similarity	giong nhau
+butt	mong
+lid	Nap
+dumb	cam
+bulk	so luong lon
+sprinkle	rac
+mortality	tu vong
+philosophical	triet hoc
+conversion	su hoan cai
+patron	nguoi bao tro
+municipal	thanh pho truc thuoc trung uong
+any	khong ti nao
+liver	Gan
+harmony	hoa hop
+solely	co dọc
+tolerance	suc chiu dung
+instant	lap tuc
+goat	con de
+arm	canh tay
+blessing	phuoc lanh
+banana	trai chuoi
+running	dang chay
+palace	cung dien
+formerly	truoc kia
+peasant	ta dien
+neat	gon gang
+grandparent	ong ba
+lawmaker	nguoi lam luat
+supermarket	sieu thi
+cruise	du thuyen
+mobile	di dong
+plain	don gian
+part	phan
+calendar	lich
+widow	Goa phu
+deposit	dat coc
+beard	bo rau
+brake	phanh
+downtown	trung tam thanh pho
+screening	sang loc
+impulse	thuc day
+forbid	ngan cam
+fur	long thu
+brutal	tan bao
+predator	dong vat an thit
+poke	xo
+opt	opt
+voluntary	tinh nguyen
+trouble	rac roi
+valid	co gia tri
+forum	dien dan
+dancing	khieu vu
+happily	hanh phuc
+soar	bay len
+removal	loai bo
+autonomy	quyen tu tri
+enact	ban hanh
+round	vong
+thread	chu de
+light	nhe
+landmark	phong canh
+unhappy	khong vui
+offender	nguoi pham toi
+coming	dang toi
+privately	rieng tu
+fraction	phan nho
+distinctive	dac biet
+tourism	du lich
+threshold	nguong cua
+calm	tran tinh
+routinely	thuong xuyen
+suite	Thuong hang
+remark	nhan xet
+regulator	nguoi quan ly
+straw	Rom ra
+theological	than hoc
+apart	rieng biet
+exhaust	khi thai
+globe	qua dia cau
+fragile	de vo
+objection	su phan doi
+chemistry	hoa hoc
+old-fashioned	Co hu
+crowded	Dong
+circle	vong tron
+blast	vu no
+prevail	Chiem uu the
+overnight	qua dem
+denial	tu choi
+rental	cho thue
+fantastic	tuyet voi
+fragment	mieng
+level	muc do
+screw	Dinh oc
+warmth	su am ap
+undergraduate	dai hoc
+liquid	chat long
+headache	dau dau
+policeman	canh sat
+yield	nang suat
+projection	hinh chieu
+battle	tran danh
+suitable	thich hop
+mention	de cap den
+graduation	tot nghiep
+drill	may khoan
+cruel	tan ac
+mansion	dinh thu
+regard	ve
+grape	giong nho
+authorize	uy quyen
+cottage	ngoi nha tranh
+driveway	duong lai xe
+charm	quyen ru
+sexuality	tinh duc
+loyal	trung thanh
+clay	dat set
+pound	pao
+balloon	bong bay
+invention	su phat minh
+ego	Cai toi
+fare	gia ve
+homework	bai tap ve nha
+disc	dia
+sofa	ghe so pha
+guarantee	Bao hanh
+availability	kha dung
+radar	ra da
+frown	nhan mat
+regain	lay lai
+leave	roi bo
+permit	cho phep lam gi
+sweater	ao len
+rehabilitation	su phuc hoi
+rubber	cao su, tay
+retreat	rut lui
+molecule	phan tu
+freely	tu do
+favorable	thuan loi
+steadily	deu dan
+veteran	cuu chien binh
+integrated	tich hop
+ha	ha
+youngster	thanh nien
+broadcast	phat tin
+premium	phan thuong
+accountability	trach nhiem giai trinh
+overwhelm	lan at
+one-third	mot phan ba
+contemplate	thuong ngoan
+update	cap nhat
+spark	tia lua
+ironically	tro treu thay
+fatigue	su met moi
+beyond	vuot ra ngoai
+speculate	suy doan
+marker	danh dau
+low	Thap
+preach	thuyet giao
+bucket	Gau muc
+bomb	bom
+blond	toc vang
+confession	loi thu toi
+provoke	khieu khich
+marble	da hoa
+substantially	dang ke
+twist	xoan
+defender	hau ve
+fish	ca
+explicit	ro rang
+transport	van chuyen
+disturbing	phien
+surveillance	giam sat
+magnetic	tu tinh
+technician	ky thuat vien
+mutter	lam bam
+devastating	tan pha
+depart	khoi hanh
+arrow	mui ten
+trauma	ton thuong
+neighboring	lang gieng
+soak	ngam
+ribbon	ruy-bang
+meantime	cho doi
+transmit	chuyen giao
+screen	man hinh
+harvest	mua gat
+consecutive	lien tiep
+republican	cong hoa
+coordinate	dieu phoi
+worldwide	tren toan the gioi
+within	o trong
+spy	gian diep
+slot	cho
+riot	bao loan
+nutrient	chat dinh duong
+citizenship	quyen cong dan
+severely	tan khoc
+sovereignty	chu quyen
+ridge	cay rom
+brave	Dung cam
+lighting	thap sang
+specify	xac dinh
+contributor	nguoi dong gop
+frustrate	buc boi
+crowd	dam dong
+articulate	noi ro
+importantly	quan trong
+transit	qua canh
+dense	ngu don
+seminar	hoi thao
+electronics	thiet bi dien tu
+sunny	nhieu nang
+shorts	quan short
+swell	sung len
+accusation	loi buoc toi
+soften	lam mem
+photograph	anh chup
+straighten	lam thang
+terribly	kinh khung
+cue	goi y
+sudden	dot nhien
+bride	vi hon the
+biography	tieu su
+hazard	hiem nguy
+compelling	thuyet phuc
+seldom	hiem khi
+tile	ngoi
+economically	kinh te
+honestly	thanh that
+troubled	rac roi
+bow	cay cung
+twentieth	hai muoi
+balanced	can bang
+foreigner	nguoi nuoc ngoai
+launch	phong
+convenience	su tien loi
+delight	Han hoan
+weave	det
+timber	go
+till	cho den khi
+accurately	chinh xac
+plea	loi thu toi
+bulb	bong den tron
+copy	sao chep
+flying	bay
+sustainable	ben vung
+devil	ac quy
+bolt	chop
+cargo	hang hoa
+spine	xuong song
+seller	nguoi ban
+skilled	co tay nghe cao
+managing	quan ly
+public	cong cong
+marine	hang hai
+dock	ben tau
+organized	duoc to chuc
+fog	suong mu
+diplomat	nha ngoai giao
+boring	nham chan
+sometime	thinh thoang
+summary	ban tom tat
+missionary	nha truyen giao
+epidemic	benh dich
+fatal	gay tu vong
+trim	cat tia
+warehouse	Kho
+accelerate	Thuc giuc
+butterfly	Con buom
+bronze	dong
+drown	chet chim
+inherent	von co
+praise	khen
+nationwide	tren toan quoc
+spit	khac nho
+harvest	mua gat
+kneel	quy xuong
+vacuum	may hut bui
+selected	da chon
+dictate	ra lenh
+stereotype	khuon mau
+sensor	cam bien
+laundry	giat ui
+manual	thu cong
+pistol	sung luc
+naval	hai quan
+immigrant	di tru
+plaintiff	nguyen don
+kid	dua tre
+middle-class	tang lop trung luu
+apology	loi xin loi
+till	cho den khi
+dog	gaugaugau
