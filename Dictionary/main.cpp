@@ -29,12 +29,13 @@ int main()
             do {
                 
                 cout << "Enter a word to search: ";
-                cin>>inputWord;
+                cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+                getline(cin, inputWord);
                 
     
-                
+                inputWord = test1.toLowercase(inputWord);
                 vector<string> suggestions = test1.autocomplete(inputWord);
-                //inputWord = test1.toLowercase(inputWord);
+                
                 test1.addToHistory(inputWord);
                 
                 auto start = std::chrono::high_resolution_clock::now();
@@ -52,11 +53,12 @@ int main()
                         //cout << "Successfully added to your favorite list" << endl;
                     }
                 } else {
-                    
+                    if (!suggestions.empty()) {
                     cout << "Suggestions:" << endl;
                     for (const string& suggestion : suggestions) {
                     cout << suggestion << endl;
                         }
+                    }
                     //cout << "The word \"" << inputWord << "\" does not exist in the dictionary." << endl;
                     cout << "Do you want to add this word to the dictionary? (y/n): ";
                     cin >> command;

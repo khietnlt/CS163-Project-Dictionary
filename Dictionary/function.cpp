@@ -194,7 +194,7 @@ void Dictionary::searchWordsByDefinition(Trie* node, string currentWord, const s
     if (node==NULL)
         return; 
 
-    if (node->isEndOfName && toLowercase(node->definition) == targetDefinition) {
+    if (node->isEndOfName && toLowercase(node->definition) == toLowercase(targetDefinition)) {
         words.push_back(currentWord);
     }
     
