@@ -8,7 +8,7 @@ void Dictionary::chooseDic(int temp)
     {
         ofstream foutput;
         // ifstream finput("slang.txt");
-        ifstream finput("slang.txt");
+        ifstream finput("/Users/lap15184-local/Documents/GitHub/CS163-Project-Dictionary/Dictionary/slang.txt");
         if (!finput)
         {
             cerr << "Error: file not opened." << endl;
@@ -42,7 +42,7 @@ void Dictionary::chooseDic(int temp)
     case 2:
     {
         ifstream finput1;
-        finput1.open("emotional.txt");
+        finput1.open("/Users/lap15184-local/Documents/GitHub/CS163-Project-Dictionary/Dictionary/emotional.txt");
         if (!finput1)
         {
             cerr << "Error: file not opened." << endl;
@@ -71,7 +71,6 @@ void Dictionary::chooseDic(int temp)
     }
     case 3:
     {
-        Dictionary test1;
 
         ifstream finput1("/Users/lap15184-local/Documents/GitHub/CS163-Project-Dictionary/Dictionary/Datasets5000.txt");
         if (!finput1)
@@ -100,8 +99,6 @@ void Dictionary::chooseDic(int temp)
                         }
 
                         addNewWord(keyword, definition);
-
-                       
                     }
                 }
             }
@@ -111,6 +108,37 @@ void Dictionary::chooseDic(int temp)
             break;
         }
     }
+    case 4:
+    {
+        ifstream finput1("/Users/lap15184-local/Documents/GitHub/CS163-Project-Dictionary/Dictionary/vietanh.txt");
+
+        if (!finput1)
+        {
+            cerr << "Error: file not opened." << endl;
+        }
+        else
+        {
+            string buf1;
+
+            while (std::getline(finput1, buf1))
+            {
+                if (!buf1.empty())
+                {
+                    size_t delimiterPos = buf1.find(" : ");
+                    if (delimiterPos != string::npos)
+                    {
+                        string word = buf1.substr(0, delimiterPos);
+                        string definition = buf1.substr(delimiterPos + 3); // Skip " : "
+                        addNewWord(word, definition);
+                    }
+                }
+            }
+        }
+        finput1.close();
+
+        break;
+    }
+
     default:
     {
         cout << "Invalid input" << endl;
@@ -236,11 +264,14 @@ string Dictionary::search(const string &query)
     {
         temp = temp->map[normalizedQuery[i]];
         if (temp == nullptr)
+        {
             break;
+        }
     }
 
     if (temp != nullptr && temp->isEndOfName)
         return temp->definition;
+
     vector<string> wordsWithDefinition = searchWordsByDefinition(normalizedQuery);
     if (!wordsWithDefinition.empty())
     {
@@ -252,9 +283,10 @@ string Dictionary::search(const string &query)
         result.erase(result.length() - 2); // Remove the trailing comma and space
         return result;
     }
-    else {
+    /*else
+    {
         return "Not found keyword";
-    }
+    }*/
 
     return "Not found definition";
 }
@@ -723,12 +755,15 @@ WordGuessQuestion Dictionary::getRandomDefGuessQuestion()
 vector<string> Dictionary::autocomplete(const string &prefix)
 {
     vector<string> suggestions;
+    if (root == NULL)
+        return suggestions;
+
     Trie *node = root;
 
     // Traverse to the node representing the last character of the prefix
     for (char c : prefix)
     {
-        if (!node->map.count(c))
+        if (node == nullptr || !node->map.count(c))
         {
             return suggestions; // Prefix not found in dictionary
         }
@@ -743,6 +778,11 @@ vector<string> Dictionary::autocomplete(const string &prefix)
 
 void Dictionary::autocomplete(Trie *node, string currentWord, vector<string> &suggestions)
 {
+    if (node == nullptr)
+    {
+        return; // End of subtree
+    }
+
     if (node->isEndOfName)
     {
         suggestions.push_back(currentWord);
