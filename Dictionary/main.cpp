@@ -30,12 +30,19 @@ int main()
                 
                 cout << "Enter a word to search: ";
                 cin>>inputWord;
+                
+    
+                
                 vector<string> suggestions = test1.autocomplete(inputWord);
                 //inputWord = test1.toLowercase(inputWord);
                 test1.addToHistory(inputWord);
                 
-
+                auto start = std::chrono::high_resolution_clock::now();
                 cout << "Meaning: " << test1.search(inputWord) << endl;
+                auto end = std::chrono::high_resolution_clock::now();
+                std::chrono::duration<double> duration = end - start;
+                std::cout << "Function execution time: " << duration.count() << " seconds" << std::endl;
+
 
                  if (test1.search(inputWord) != "Not found") {
                     cout << "Do you want to add this word to your favorite list? (y/n): ";
@@ -56,7 +63,7 @@ int main()
                     if (command == "y" || command == "Y") {
                         cout << "Enter the meaning of the word: ";
                         
-                        getline(cin, inputMeaning);
+                        cin>>inputMeaning;
                         test1.addNewWord(inputWord, inputMeaning);
                         cout << "Successfully added the new word to the dictionary" << endl;
                     }
@@ -83,7 +90,7 @@ int main()
                 if (command == "y" || command == "Y") {
                     cout << "Enter the meaning of the word: ";
                     
-                    getline(cin, inputMeaning);
+                    cin>>inputMeaning;
                     test1.addNewWord(inputWord, inputMeaning);
                     cout << "Successfully added the new word to the dictionary" << endl;
                 }
@@ -113,7 +120,7 @@ int main()
             cin >> inputWord;
             cout << "Enter the meaning of the word: ";
              // Ignore the newline character from previous cin
-            getline(cin, inputMeaning);
+            cin>>inputMeaning;
             test1.addNewWord(inputWord, inputMeaning);
             cout << "Successfully added the new word to the dictionary" << endl;
             break;
@@ -128,7 +135,7 @@ int main()
             if (oldMeaning != "Not found") {
                 cout << "Old meaning: " << oldMeaning << endl;
                 cout << "Enter the new meaning: ";
-                getline(cin, inputMeaning);
+                cin>>inputMeaning;
                 test1.editDefinition(inputWord, inputMeaning);
             } else {
                 cout << "The word \"" << inputWord << "\" does not exist in the dictionary." << endl;
@@ -137,7 +144,7 @@ int main()
                 if (command == "y" || command == "Y") {
                     cout << "Enter the meaning of the word: ";
                     
-                    getline(cin, inputMeaning);
+                    cin>>inputMeaning;
                     test1.addNewWord(inputWord, inputMeaning);
                     cout << "Successfully added the new word to the dictionary" << endl;
                 }

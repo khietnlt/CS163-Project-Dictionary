@@ -12,6 +12,7 @@
 #include <vector>
 #include <random>
 #include <ncurses.h>
+#include <chrono>
 using namespace std;
 
 
