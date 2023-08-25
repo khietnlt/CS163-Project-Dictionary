@@ -69,36 +69,34 @@ void Dictionary::chooseDic(int temp)
 
         break;
     }
+case 3:
+{
+    Dictionary test1;
 
-    //case 3:
-    //{
-    //    ifstream finput1;
-    //    finput1.open("A.txt");
-    //    if (!finput1) {
-    //        cerr << "Error: file not opened." << endl;           
-    //    }
-    //    string buf1;
-    //    string data;
-    //    //std::getline(finput1, buf1);
-    //    //cout << buf1;
-    //    
-    //    while (std::getline(finput1, buf1))
-    //    {
-    //        
-    //        char* p;
-    //        char* ch = new char[buf1.length()];
-    //        strcpy(ch, buf1.c_str());
-    //        p = strtok(ch, ":");
-    //        char* first = p;
-    //        p = strtok(NULL, "");
-    //        if (p != NULL) {
-    //            addNewWord(first, p);
-    //        }
-    //    }
-    //    finput1.close();
-    //   
-    //    break;
-    //}
+    ifstream finput1("/Users/lap15184-local/Documents/GitHub/CS163-Project-Dictionary/Dictionary/Datasets5000.txt");
+    if (!finput1) {
+        cerr << "Error: file not opened." << endl;
+    } else {
+        string line;
+
+        while (getline(finput1, line)) {
+            size_t spacePos = line.find(' ');
+            if (spacePos != string::npos) {
+                string keyword = line.substr(0, spacePos);
+                string definition = line.substr(spacePos + 1);
+                size_t firstCharIdx = definition.find_first_not_of(" \t");
+                if (firstCharIdx != string::npos) {
+                    definition = definition.substr(firstCharIdx);
+                }
+                test1.addNewWord(keyword, definition);
+            }
+        }
+        finput1.close();
+    }
+
+    break;
+}
+
 
     default:
     {
