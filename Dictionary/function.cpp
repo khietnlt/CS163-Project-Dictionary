@@ -7,9 +7,9 @@ void Dictionary::chooseDic(int temp)
     {
     case 1:
     {
-        ofstream foutput;        
+        ofstream foutput;
         //ifstream finput("slang.txt");
-        ifstream finput("/Users/lap15184-local/Documents/GitHub/CS163-Project-Dictionary/Dictionary/slang.txt");
+        ifstream finput("slang.txt");
         if (!finput) {
             cerr << "Error: file not opened." << endl;
         }
@@ -41,7 +41,7 @@ void Dictionary::chooseDic(int temp)
     case 2:
     {
         ifstream finput1;
-        finput1.open("/Users/lap15184-local/Documents/GitHub/CS163-Project-Dictionary/Dictionary/emotional.txt");
+        finput1.open("emotional.txt");
         if (!finput1) {
             cerr << "Error: file not opened." << endl;
         }
@@ -149,7 +149,7 @@ void Dictionary::addNewWord(const string& str, string meaning)
 
         temp = temp->map[c];
     }
-     if (temp->isEndOfName) {
+    if (temp->isEndOfName) {
         // Word already exists, update the meaning
         temp->definition = meaning;
         return;
@@ -191,13 +191,13 @@ vector<string> Dictionary::searchWordsByDefinition(const string& definition) {
 }
 
 void Dictionary::searchWordsByDefinition(Trie* node, string currentWord, const string& targetDefinition, vector<string>& words) {
-    if (node==NULL)
-        return; 
+    if (node == NULL)
+        return;
 
-    if (node->isEndOfName && toLowercase(node->definition) == targetDefinition) {
+    if (node->isEndOfName && toLowercase(node->definition) == toLowercase(targetDefinition)) {
         words.push_back(currentWord);
     }
-    
+
 
     for (auto& it : node->map) {
         char c = it.first;
@@ -206,7 +206,7 @@ void Dictionary::searchWordsByDefinition(Trie* node, string currentWord, const s
     }
 }
 
-string Dictionary::toLowercase(const string& str)  {
+string Dictionary::toLowercase(const string& str) {
     string result = str;
     std::transform(result.begin(), result.end(), result.begin(), ::tolower);
     return result;
@@ -220,7 +220,7 @@ string Dictionary::search(const string& query) {
 
     Trie* temp = root;
 
-   for (int i = 0; i < normalizedQuery.length(); i++) {
+    for (int i = 0; i < normalizedQuery.length(); i++) {
         temp = temp->map[normalizedQuery[i]];
         if (temp == nullptr)
             break;
@@ -266,7 +266,7 @@ void Dictionary::editDefinition(const string& st, string newMeaning)
 
 void Dictionary::addToFavoriteList(const string& st)
 {
-   ofstream myfile("FavoriteList.txt", ios::app); // Append mode
+    ofstream myfile("FavoriteList.txt", ios::app); // Append mode
     if (myfile.is_open())
     {
         string meaning = searchKeyword(st);
@@ -422,7 +422,7 @@ void Dictionary::viewRandomWord() {
     std::random_device rd;
     std::mt19937 gen(rd());
     std::uniform_int_distribution<int> dis(0, words.size() - 1);
-    
+
     int randomIndex = dis(gen);
     string randomWord = words[randomIndex];
 
@@ -523,8 +523,8 @@ WordGuessQuestion Dictionary::getRandomWordGuessQuestion() {
     // Remove all occurrences of the correct definition from all definitions
     vector<string> filteredDefinitions;
     for (const string& def : allDefinitions) {
-    if (def != question.correctDefinition) {
-        filteredDefinitions.push_back(def);
+        if (def != question.correctDefinition) {
+            filteredDefinitions.push_back(def);
         }
     }
 
@@ -590,7 +590,7 @@ WordGuessQuestion Dictionary::getRandomDefGuessQuestion() {
     incorrectWords= def.size() > 3 ? vector<string>(def.begin(), def.begin() + 3) : def;
     if (incorrectWords.size() < 3) {
         cout<< "Not enough words with distinct definitions";
-        
+
     }
     question.options.push_back(question.correctDefinition); // Add the correct answer as an option
 
@@ -636,7 +636,7 @@ WordGuessQuestion Dictionary::getRandomDefGuessQuestion() {
     question.correctDefinition = randomWord;
     question.word = current->definition;
 
-    
+
     vector<string> options;
 
     for (const string& word : words) {
